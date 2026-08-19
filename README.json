@@ -1,8 +1,2423 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "GraphGym",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303907761,
+                "language": "Python",
+                "last_commit": "2023-11-10T05:37:18Z",
+                "owner": "snap-stanford",
+                "repo": "GraphGym",
+                "stars": 1904
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FEATHER",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241165262,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:13:01Z",
+                "owner": "benedekrozemberczki",
+                "repo": "FEATHER",
+                "stars": 51
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HeGAN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170280340,
+                "language": "Python",
+                "last_commit": "2019-05-05T09:34:38Z",
+                "owner": "librahu",
+                "repo": "HeGAN",
+                "stars": 70
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NetMF",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GL2Vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NNSED",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SymmNMF",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RECT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242474364,
+                "language": "Python",
+                "last_commit": "2021-03-23T06:05:58Z",
+                "owner": "zhengwang100",
+                "repo": "RECT",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GEMSEC",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118673831,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:14:27Z",
+                "owner": "benedekrozemberczki",
+                "repo": "GEMSEC",
+                "stars": 258
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AmpliGraph",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164881995,
+                "language": "Python",
+                "last_commit": "2026-08-06T22:50:36Z",
+                "owner": "Accenture",
+                "repo": "AmpliGraph",
+                "stars": 2237
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "jodie",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193973813,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:13:39Z",
+                "owner": "claws-lab",
+                "repo": "jodie",
+                "stars": 422
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PyTorch-BigGraph",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[github]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 151156413,
+                "language": "Python",
+                "last_commit": "2024-03-03T01:42:05Z",
+                "owner": "facebookresearch",
+                "repo": "PyTorch-BigGraph",
+                "stars": 3455
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ATP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169783064,
+                "language": "Cuda",
+                "last_commit": "2019-04-18T15:26:22Z",
+                "owner": "zhenv5",
+                "repo": "atp",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MUSAE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181892075,
+                "language": "Python",
+                "last_commit": "2022-09-19T18:34:40Z",
+                "owner": "benedekrozemberczki",
+                "repo": "MUSAE",
+                "stars": 186
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SEAL-CI",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183039041,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:14:17Z",
+                "owner": "benedekrozemberczki",
+                "repo": "SEAL-CI",
+                "stars": 212
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "N-GCN and MixHop",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172220566,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:17:00Z",
+                "owner": "benedekrozemberczki",
+                "repo": "MixHop-and-N-GCN",
+                "stars": 406
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CapsGNN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168210197,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:08:55Z",
+                "owner": "benedekrozemberczki",
+                "repo": "CapsGNN",
+                "stars": 1278
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Splitter",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176126044,
+                "language": "Python",
+                "last_commit": "2023-06-06T22:50:48Z",
+                "owner": "benedekrozemberczki",
+                "repo": "Splitter",
+                "stars": 214
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "REGAL",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146050745,
+                "language": "Python",
+                "last_commit": "2021-03-30T13:41:54Z",
+                "owner": "GemsLab",
+                "repo": "REGAL",
+                "stars": 97
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PyTorch Geometric",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106024057,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:02:36Z",
+                "owner": "pyg-team",
+                "repo": "pytorch_geometric",
+                "stars": 24018
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TuckER",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167696782,
+                "language": "Python",
+                "last_commit": "2023-11-16T15:14:14Z",
+                "owner": "ibalazevic",
+                "repo": "TuckER",
+                "stars": 368
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HypER",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133713292,
+                "language": "Python",
+                "last_commit": "2019-09-21T08:16:58Z",
+                "owner": "ibalazevic",
+                "repo": "HypER",
+                "stars": 54
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GWNN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166455175,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:13:09Z",
+                "owner": "benedekrozemberczki",
+                "repo": "GraphWaveletNeuralNetwork",
+                "stars": 607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python TensorFlow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167883355,
+                "language": "Python",
+                "last_commit": "2019-01-28T15:01:17Z",
+                "owner": "Eilene",
+                "repo": "GWNN",
+                "stars": 65
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "APPNP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170295133,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:13:30Z",
+                "owner": "benedekrozemberczki",
+                "repo": "APPNP",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python TensorFlow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171670880,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-09T10:00:57Z",
+                "owner": "gasteigerjo",
+                "repo": "ppnp",
+                "stars": 322
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "role2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167860349,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:10:54Z",
+                "owner": "benedekrozemberczki",
+                "repo": "role2vec",
+                "stars": 169
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AttentionWalk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python TensorFlow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-16T18:45:46Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165262775,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:09:53Z",
+                "owner": "benedekrozemberczki",
+                "repo": "AttentionWalk",
+                "stars": 326
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GAT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python TensorFlow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119770380,
+                "language": "Python",
+                "last_commit": "2022-04-09T20:10:06Z",
+                "owner": "PetarV-",
+                "repo": "GAT",
+                "stars": 3545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123565023,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:23:03Z",
+                "owner": "diegoantognini",
+                "repo": "pyGAT",
+                "stars": 3122
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SINE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164440658,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:12:44Z",
+                "owner": "benedekrozemberczki",
+                "repo": "SINE",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python PyTorch]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164440658,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:12:44Z",
+                "owner": "benedekrozemberczki",
+                "repo": "SINE",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[C++]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148327361,
+                "language": "C",
+                "last_commit": "2020-06-29T07:09:35Z",
+                "owner": "daokunzhang",
+                "repo": "SINE",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SGCN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160753639,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:08:47Z",
+                "owner": "benedekrozemberczki",
+                "repo": "SGCN",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160753639,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:08:47Z",
+                "owner": "benedekrozemberczki",
+                "repo": "SGCN",
+                "stars": 277
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TENE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160684935,
+                "language": "Python",
+                "last_commit": "2022-09-19T18:34:51Z",
+                "owner": "benedekrozemberczki",
+                "repo": "TENE",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160684935,
+                "language": "Python",
+                "last_commit": "2022-09-19T18:34:51Z",
+                "owner": "benedekrozemberczki",
+                "repo": "TENE",
+                "stars": 74
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DANMF",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158708581,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:09:13Z",
+                "owner": "benedekrozemberczki",
+                "repo": "DANMF",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Matlab]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155168322,
+                "language": "MATLAB",
+                "last_commit": "2021-01-22T00:51:36Z",
+                "owner": "smartyfh",
+                "repo": "DANMF",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BANE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157595045,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:09:06Z",
+                "owner": "benedekrozemberczki",
+                "repo": "BANE",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Matlab]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136627826,
+                "language": "Matlab",
+                "last_commit": "2018-06-09T04:16:16Z",
+                "owner": "ICDM2018-BANE",
+                "repo": "BANE",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GCN Insights",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83119887,
+                "language": "Python",
+                "last_commit": "2018-04-16T08:18:04Z",
+                "owner": "liqimai",
+                "repo": "gcn",
+                "stars": 45
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PCTADW",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148555865,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-12-29T06:21:58Z",
+                "owner": "shudan",
+                "repo": "PCTADW",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LGCN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143934629,
+                "language": "Python",
+                "last_commit": "2018-08-07T23:07:16Z",
+                "owner": "HongyangGao",
+                "repo": "LGCN",
+                "stars": 47
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AspEm",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131775485,
+                "language": "C++",
+                "last_commit": "2018-05-02T17:53:53Z",
+                "owner": "ysyushi",
+                "repo": "aspem",
+                "stars": 26
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Walklets",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python Karateclub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144172513,
+                "language": "Python",
+                "last_commit": "2023-03-18T12:12:34Z",
+                "owner": "benedekrozemberczki",
+                "repo": "walklets",
+                "stars": 105
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "gat2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113980802,
+                "language": "Python",
+                "last_commit": "2021-12-07T20:20:49Z",
+                "owner": "snash4",
+                "repo": "GAT2VEC",
+                "stars": 57
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FSCNMF",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python Karateclub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147522485,
+                "language": "Python",
+                "last_commit": "2022-08-14T10:26:49Z",
+                "owner": "benedekrozemberczki",
+                "repo": "FSCNMF",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121172535,
+                "language": "Python",
+                "last_commit": "2018-02-11T22:13:50Z",
+                "owner": "sambaranban",
+                "repo": "FSCNMF",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AWE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96473601,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-07-17T18:02:05Z",
+                "owner": "nd7141",
+                "repo": "AWE",
+                "stars": 84
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BiNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132771482,
+                "language": "Python",
+                "last_commit": "2020-11-03T13:36:55Z",
+                "owner": "clhchtcjj",
+                "repo": "BiNE",
+                "stars": 229
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HOPE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VERSE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122595764,
+                "language": "C++",
+                "last_commit": "2021-02-21T19:05:43Z",
+                "owner": "xgfs",
+                "repo": "verse",
+                "stars": 134
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AGNN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115491728,
+                "language": "Python",
+                "last_commit": "2017-12-27T09:40:43Z",
+                "owner": "dawnranger",
+                "repo": "pytorch-AGNN",
+                "stars": 145
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hyperbolics",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118824415,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:35:59Z",
+                "owner": "HazyResearch",
+                "repo": "hyperbolics",
+                "stars": 395
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DGCNN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Lua]",
+              "description": "[Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111512422,
+                "language": "Matlab",
+                "last_commit": "2018-05-14T19:55:41Z",
+                "owner": "muhanzhang",
+                "repo": "DGCNN",
+                "stars": 179
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "structure2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114893357,
+                "language": "Python",
+                "last_commit": "2019-05-14T14:28:02Z",
+                "owner": "Hanjun-Dai",
+                "repo": "pytorch_structure2vec",
+                "stars": 313
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Decagon",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119741627,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-21T22:25:56Z",
+                "owner": "mims-harvard",
+                "repo": "decagon",
+                "stars": 473
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DHNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116108884,
+                "language": "Python",
+                "last_commit": "2019-02-25T06:40:38Z",
+                "owner": "tadpole",
+                "repo": "DHNE",
+                "stars": 48
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ohmnet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85366708,
+                "language": "Python",
+                "last_commit": "2020-08-12T03:20:34Z",
+                "owner": "mims-harvard",
+                "repo": "ohmnet",
+                "stars": 85
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SDNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112871599,
+                "language": "Python",
+                "last_commit": "2018-05-19T15:15:09Z",
+                "owner": "xiaohan2012",
+                "repo": "sdne-keras",
+                "stars": 92
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "STWalk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110342340,
+                "language": "Python",
+                "last_commit": "2017-11-15T04:48:22Z",
+                "owner": "supriya-gdptl",
+                "repo": "STWalk",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LoNGAE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122553655,
+                "language": "Python",
+                "last_commit": "2019-07-18T23:53:26Z",
+                "owner": "vuptran",
+                "repo": "graph-representation-learning",
+                "stars": 255
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RSDNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Matlab]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129678041,
+                "language": "MATLAB",
+                "last_commit": "2020-05-25T14:20:50Z",
+                "owner": "zhengwang100",
+                "repo": "RSDNE",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FastGCN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119597123,
+                "language": "Python",
+                "last_commit": "2021-03-25T03:16:19Z",
+                "owner": "matenure",
+                "repo": "FastGCN",
+                "stars": 529
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "diff2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106848789,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:13:13Z",
+                "owner": "benedekrozemberczki",
+                "repo": "diff2vec",
+                "stars": 127
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Poincare",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[PyTorch]",
+              "description": "[Python] [C++]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 118165119,
+                "language": "Python",
+                "last_commit": "2025-05-23T17:51:10Z",
+                "owner": "facebookresearch",
+                "repo": "poincare-embeddings",
+                "stars": 1756
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PEUNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104629644,
+                "language": "Python",
+                "last_commit": "2018-06-07T15:01:08Z",
+                "owner": "ntumslab",
+                "repo": "PRUNE",
+                "stars": 44
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ASNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91096162,
+                "language": "Python",
+                "last_commit": "2021-05-30T18:54:54Z",
+                "owner": "liziliao",
+                "repo": "ASNE",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Fast Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151743871,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:13:05Z",
+                "owner": "benedekrozemberczki",
+                "repo": "ASNE",
+                "stars": 82
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GraphWave",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": "[faster version]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109349228,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-12-03T17:11:11Z",
+                "owner": "snap-stanford",
+                "repo": "graphwave",
+                "stars": 174
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "StarSpace",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 95696288,
+                "language": "C++",
+                "last_commit": "2022-12-04T04:02:21Z",
+                "owner": "facebookresearch",
+                "repo": "StarSpace",
+                "stars": 3954
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "proNet-core",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186774626,
+                "language": null,
+                "last_commit": "2019-05-15T07:45:01Z",
+                "owner": "cnclabs",
+                "repo": "proNet-core",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "struc2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79132370,
+                "language": "Python",
+                "last_commit": "2023-07-09T17:46:21Z",
+                "owner": "leoribeiro",
+                "repo": "struc2vec",
+                "stars": 393
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ComE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101261149,
+                "language": "Python",
+                "last_commit": "2022-06-01T01:17:58Z",
+                "owner": "andompesta",
+                "repo": "ComE",
+                "stars": 59
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BoostedNE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147327025,
+                "language": "Python",
+                "last_commit": "2022-09-19T18:35:02Z",
+                "owner": "benedekrozemberczki",
+                "repo": "BoostedFactorization",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "M-NMF",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python TensorFlow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134390585,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:18:56Z",
+                "owner": "benedekrozemberczki",
+                "repo": "M-NMF",
+                "stars": 121
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GraphSAGE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[TF] [PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92752848,
+                "language": "Python",
+                "last_commit": "2024-08-04T16:33:52Z",
+                "owner": "williamleif",
+                "repo": "GraphSAGE",
+                "stars": 3719
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ICE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[demo]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91826437,
+                "language": "C++",
+                "last_commit": "2017-11-25T16:21:25Z",
+                "owner": "cnclabs",
+                "repo": "ICE",
+                "stars": 89
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GuidedHeteEmbedding",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72811168,
+                "language": "C++",
+                "last_commit": "2017-06-22T05:18:32Z",
+                "owner": "chentingpc",
+                "repo": "GuidedHeteEmbedding",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GCN",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73470551,
+                "language": "Python",
+                "last_commit": "2023-04-14T08:09:28Z",
+                "owner": "tkipf",
+                "repo": "gcn",
+                "stars": 7401
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GAE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python Tensorflow]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94977683,
+                "language": "Python",
+                "last_commit": "2020-01-03T12:56:37Z",
+                "owner": "tkipf",
+                "repo": "gae",
+                "stars": 1741
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CANE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88707705,
+                "language": "Python",
+                "last_commit": "2019-03-30T05:35:36Z",
+                "owner": "thunlp",
+                "repo": "CANE",
+                "stars": 193
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TransNet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python Tensorflow]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89247218,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-03-25T14:09:03Z",
+                "owner": "thunlp",
+                "repo": "TransNet",
+                "stars": 101
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "cnn_graph",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68138233,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-13T21:47:49Z",
+                "owner": "mdeff",
+                "repo": "cnn_graph",
+                "stars": 1366
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ConvE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[source]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94952614,
+                "language": "Python",
+                "last_commit": "2024-03-29T10:58:20Z",
+                "owner": "TimDettmers",
+                "repo": "ConvE",
+                "stars": 692
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "node2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python] [Python-2] [Python-3] [C++]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62104170,
+                "language": "Scala",
+                "last_commit": "2022-07-21T14:37:25Z",
+                "owner": "aditya-grover",
+                "repo": "node2vec",
+                "stars": 2739
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DNGR",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Matlab]",
+              "description": "[Python Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50649471,
+                "language": "Matlab",
+                "last_commit": "2017-02-21T08:43:17Z",
+                "owner": "ShelsonCao",
+                "repo": "DNGR",
+                "stars": 43
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HolE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python-sklearn]",
+              "description": "[Python-sklearn2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46634210,
+                "language": "Python",
+                "last_commit": "2018-08-13T22:53:05Z",
+                "owner": "mnick",
+                "repo": "holographic-embeddings",
+                "stars": 180
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ComplEx",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59611915,
+                "language": "Python",
+                "last_commit": "2019-07-31T12:08:35Z",
+                "owner": "ttrouill",
+                "repo": "complex",
+                "stars": 332
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MMDW",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[Java]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56471599,
+                "language": "Java",
+                "last_commit": "2017-05-09T09:07:36Z",
+                "owner": "thunlp",
+                "repo": "MMDW",
+                "stars": 73
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "planetoid",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62000887,
+                "language": "Python",
+                "last_commit": "2020-03-05T21:03:14Z",
+                "owner": "kimiyoung",
+                "repo": "planetoid",
+                "stars": 963
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "graph2vec",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python gensim]",
+              "description": "[Python KarateClub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140419579,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:15:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "graph2vec",
+                "stars": 934
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PowerWalk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38031557,
+                "language": "C++",
+                "last_commit": "2017-01-03T05:28:43Z",
+                "owner": "lqhl",
+                "repo": "PowerWalk",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LINE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[C++] [Python TF] [Python Theano/Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31750893,
+                "language": "C++",
+                "last_commit": "2024-07-16T05:03:25Z",
+                "owner": "tangjianpku",
+                "repo": "LINE",
+                "stars": 1055
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PTE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[C++]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70191924,
+                "language": "C++",
+                "last_commit": "2017-10-24T02:20:20Z",
+                "owner": "mnqu",
+                "repo": "PTE",
+                "stars": 95
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GraRep",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Python KarateClub]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226155948,
+                "language": "Python",
+                "last_commit": "2024-07-17T19:00:35Z",
+                "owner": "benedekrozemberczki",
+                "repo": "karateclub",
+                "stars": 2285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Python]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185191179,
+                "language": "Python",
+                "last_commit": "2022-11-06T21:12:54Z",
+                "owner": "benedekrozemberczki",
+                "repo": "GraRep",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Matlab]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39484989,
+                "language": "Matlab",
+                "last_commit": "2018-02-22T07:39:44Z",
+                "owner": "ShelsonCao",
+                "repo": "GraRep",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Julia]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85837974,
+                "language": "Julia",
+                "last_commit": "2017-03-22T16:59:24Z",
+                "owner": "xgfs",
+                "repo": "GraRep.jl",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "KB2E",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[C++] [faster version]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58916964,
+                "language": "C++",
+                "last_commit": "2022-11-03T06:53:02Z",
+                "owner": "thunlp",
+                "repo": "KB2E",
+                "stars": 1420
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TADW",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[Matlab] [Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60680811,
+                "language": "Matlab",
+                "last_commit": "2017-04-28T15:39:47Z",
+                "owner": "thunlp",
+                "repo": "TADW",
+                "stars": 48
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeepWalk",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python] [C++]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23246978,
+                "language": "Python",
+                "last_commit": "2023-06-14T23:22:41Z",
+                "owner": "phanein",
+                "repo": "deepwalk",
+                "stars": 2759
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GEM",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arxiv]",
+              "description": "[Python]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90606928,
+                "language": "Python",
+                "last_commit": "2023-11-05T22:04:24Z",
+                "owner": "palash1992",
+                "repo": "GEM",
+                "stars": 1288
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DNE-SBP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[paper]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187606015,
+                "language": "MATLAB",
+                "last_commit": "2020-07-08T13:08:42Z",
+                "owner": "shenxiaocam",
+                "repo": "Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
+                "stars": 14
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Paper References with the implementation(s)"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T13:02:17.556Z",
+    "last_updated": "2026-08-19T12:43:59.598Z",
     "original_repository": "chihming/awesome-network-embedding",
+    "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
     "enhanced_repository": "enhansome/enhansome-network-embedding",
     "enhanced_repository_description": null,
