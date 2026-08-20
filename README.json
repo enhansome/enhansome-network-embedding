@@ -468,7 +468,7 @@
                 "last_commit": "2026-08-17T23:02:36Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24018
+                "stars": 24020
               }
             }
           ]
@@ -586,7 +586,7 @@
                 "last_commit": "2024-12-09T10:00:57Z",
                 "owner": "gasteigerjo",
                 "repo": "ppnp",
-                "stars": 322
+                "stars": 323
               }
             }
           ]
@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38586
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2023-07-06T21:23:03Z",
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3122
+                "stars": 3121
               }
             }
           ]
@@ -1670,7 +1670,7 @@
                 "last_commit": "2022-12-04T04:02:21Z",
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3954
+                "stars": 3953
               }
             }
           ]
@@ -1832,7 +1832,7 @@
                 "last_commit": "2024-08-04T16:33:52Z",
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3719
+                "stars": 3720
               }
             }
           ]
@@ -2008,7 +2008,7 @@
                 "last_commit": "2024-03-29T10:58:20Z",
                 "owner": "TimDettmers",
                 "repo": "ConvE",
-                "stars": 692
+                "stars": 691
               }
             }
           ]
@@ -2415,7 +2415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:03:12.163Z",
+    "last_updated": "2026-08-20T13:05:04.086Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
