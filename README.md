@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,057 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,490 | 🐛 104 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -19,7 +19,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * A platform for designing and evaluating Graph Neural Networks (GNN), NeurIPS 2020
   * [\[Paper\]](https://proceedings.neurips.cc/paper/2020/file/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Paper.pdf)
 * **FEATHER**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/FEATHER) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-03-18
   * Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models, CIKM 2020
   * [\[Paper\]](https://arxiv.org/abs/2005.07959)
@@ -28,19 +28,19 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Adversarial Learning on Heterogeneous Information Networks, KDD 2019
   * [\[Paper\]](https://fangyuan1st.github.io/paper/KDD19_HeGAN.pdf)
 * **NetMF**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and Node2Vec, WSDM 2018
   * [\[Paper\]](https://keg.cs.tsinghua.edu.cn/jietang/publications/WSDM18-Qiu-et-al-NetMF-network-embedding.pdf)
 * **GL2Vec**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * GL2vec: Graph Embedding Enriched by Line Graphs with Edge Features, ICONIP 2019
   * [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1)
 * **NNSED**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * A Non-negative Symmetric Encoder-Decoder Approach for Community Detection, CIKM 2017
   * [\[Paper\]](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
 * **SymmNMF**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * Symmetric Nonnegative Matrix Factorization for Graph Clustering, SDM 2012
   * [\[Paper\]](https://www.cc.gatech.edu/~hpark/papers/DaDingParkSDM12.pdf)
 * **RECT**
@@ -67,7 +67,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation, AAAI'19
   * [\[paper\]](https://arxiv.org/abs/1811.00839)
 * **MUSAE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/MUSAE) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2022-09-19
   * Multi-scale Attributed Node Embedding, ArXiv 2019
   * [\[paper\]](https://arxiv.org/abs/1909.13021)
@@ -115,23 +115,23 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Combining Neural Networks with Personalized PageRank for Classification on Graphs, ICLR'19
   * [\[paper\]](https://arxiv.org/abs/1810.05997)
 * **role2vec**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/role2vec) ⭐ 169 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,586 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,591 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
   * [\[Python\]](http://sami.haija.org/graph/context)
 * **GAT**
   * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,545 | 🐛 32 | 🌐 Python | 📅 2022-04-09
-  * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,121 | 🐛 47 | 🌐 Python | 📅 2023-07-06
+  * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,122 | 🐛 47 | 🌐 Python | 📅 2023-07-06
   * Graph Attention Networks, ICLR'18
   * [\[paper\]](https://arxiv.org/pdf/1710.10903.pdf)
 * **SINE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[paper\]](https://github.com/benedekrozemberczki/SINE/blob/master/paper.pdf) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2023-03-18
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/SINE/) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2023-03-18
   * [\[C++\]](https://github.com/daokunzhang/SINE) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2020-06-29
@@ -141,18 +141,18 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python\]](https://github.com/benedekrozemberczki/SGCN) ⭐ 277 | 🐛 1 | 🌐 Python | 📅 2023-03-18
   * Signed Graph Convolutional Network, ICDM'18
 * **TENE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[paper\]](https://github.com/benedekrozemberczki/TENE/blob/master/tene_paper.pdf) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2022-09-19
   * [\[Python\]](https://github.com/benedekrozemberczki/TENE) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2022-09-19
   * Enhanced Network Embedding with Text Information, ICPR'18
 * **DANMF**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/DANMF) ⭐ 206 | 🐛 0 | 🌐 Python | 📅 2023-03-18
   * [\[Matlab\]](https://github.com/smartyfh/DANMF) ⭐ 23 | 🐛 5 | 🌐 MATLAB | 📅 2021-01-22
   * Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection, CIKM'18
   * [\[paper\]](https://smartyfh.com/Documents/18DANMF.pdf)
 * **BANE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/BANE) ⭐ 88 | 🐛 1 | 🌐 Python | 📅 2023-03-18
   * [\[Matlab\]](https://github.com/ICDM2018-BANE/BANE) ⭐ 3 | 🐛 0 | 🌐 Matlab | 📅 2018-06-09
   * Binarized Attributed Network Embedding, ICDM'18
@@ -175,7 +175,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
   * [\[paper\]](http://yushi2.web.engr.illinois.edu/sdm18.pdf)
 * **Walklets**
-  * [\[Python Karateclub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python Karateclub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/walklets) ⭐ 105 | 🐛 0 | 🌐 Python | 📅 2023-03-18
   * Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings
   * [\[paper\]](https://arxiv.org/pdf/1605.02115.pdf)
@@ -184,7 +184,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * gat2vec: Representation learning for attributed graphs
   * [\[paper\]](https://doi.org/10.1007/s00607-018-0622-9)
 * **FSCNMF**
-  * [\[Python Karateclub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python Karateclub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/FSCNMF) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2022-08-14
   * [\[Python\]](https://github.com/sambaranban/FSCNMF) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2018-02-11
   * FSCNMF: Fusing Structure and Content via Non-negative Matrix Factorization for Embedding Information Networks
@@ -203,7 +203,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * BiNE: Bipartite Network Embedding, SIGIR'18
   * [\[paper\]](http://staff.ustc.edu.cn/~hexn/papers/sigir18-bipartiteNE.pdf)
 * **HOPE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * Asymmetric Transitivity Preserving Graph Embedding
   * [\[KDD 2016\]](http://www.kdd.org/kdd2016/papers/files/rfp0184-ouA.pdf)
   * [\[Python\]](https://github.com/AnryYang/HOPE)
@@ -263,7 +263,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
   * [\[Arxiv\]](https://arxiv.org/abs/1801.10247), [\[ICLR 2018 OpenReview\]](https://openreview.net/forum?id=rytstxWAW)
 * **diff2vec**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/diff2vec) ⭐ 127 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * [Fast Sequence Based Embedding with Diffusion Graphs](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf), CompleNet 2018
 * **Poincare**
@@ -294,15 +294,15 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python\]](https://github.com/andompesta/ComE) ⭐ 59 | 🐛 9 | 🌐 Python | 📅 2022-06-01
   * Learning Community Embedding with Community Detection and Node Embedding on Graphs, CIKM'17
 * **BoostedNE**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/BoostedFactorization) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2022-09-19
   * [Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation](https://arxiv.org/abs/1808.08627), '18
 * **M-NMF**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python TensorFlow\]](https://github.com/benedekrozemberczki/M-NMF) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Community Preserving Network Embedding, AAAI'17
 * **GraphSAGE**
-  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,720 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,052 | 🐛 20 | 🌐 Python | 📅 2020-05-11
+  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,719 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,052 | 🐛 20 | 🌐 Python | 📅 2020-05-11
   * Inductive Representation Learning on Large Graphs, NIPS'17
 * **ICE**
   * [\[demo\]](https://cnclabs.github.io/ICE/) [\[code\]](https://github.com/cnclabs/ICE) ⭐ 89 | 🐛 6 | 🌐 C++ | 📅 2017-11-25
@@ -350,20 +350,20 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/abs/1603.08861) [\[Python\]](https://github.com/kimiyoung/planetoid) ⭐ 963 | 🐛 19 | 🌐 Python | 📅 2020-03-05
   * Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 * **graph2vec**
-  * [\[Python gensim\]](https://github.com/benedekrozemberczki/graph2vec) ⭐ 934 | 🐛 1 | 🌐 Python | 📅 2022-11-06 [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python gensim\]](https://github.com/benedekrozemberczki/graph2vec) ⭐ 934 | 🐛 1 | 🌐 Python | 📅 2022-11-06 [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * graph2vec: Learning Distributed Representations of Graphs, KDD'17 MLGWorkshop
   * [\[arxiv\]](https://arxiv.org/abs/1707.05005)
 * **PowerWalk**
   * [\[code\]](https://github.com/lqhl/PowerWalk) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2017-01-03
   * [PowerWalk: Scalable Personalized PageRank via Random Walks with Vertex-Centric Decomposition](http://dl.acm.org/citation.cfm?id=2983713), CIKM'16
 * **LINE**
-  * [\[arxiv\]](https://arxiv.org/abs/1503.03578) [\[C++\]](https://github.com/tangjianpku/LINE) ⭐ 1,055 | 🐛 33 | 🌐 C++ | 📅 2024-07-16 [\[Python TF\]](https://github.com/snowkylin/line) ⭐ 203 | 🐛 10 | 🌐 Python | 📅 2018-12-03 [\[Python Theano/Keras\]](https://github.com/VahidooX/LINE) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2023-12-05
+  * [\[arxiv\]](https://arxiv.org/abs/1503.03578) [\[C++\]](https://github.com/tangjianpku/LINE) ⭐ 1,053 | 🐛 33 | 🌐 C++ | 📅 2024-07-16 [\[Python TF\]](https://github.com/snowkylin/line) ⭐ 203 | 🐛 10 | 🌐 Python | 📅 2018-12-03 [\[Python Theano/Keras\]](https://github.com/VahidooX/LINE) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2023-12-05
   * [LINE: Large-scale information network embedding](http://dl.acm.org/citation.cfm?id=2741093), WWW'15
 * **PTE**
   * [\[C++\]](https://github.com/mnqu/PTE) ⭐ 95 | 🐛 2 | 🌐 C++ | 📅 2017-10-24
   * [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](http://dl.acm.org/citation.cfm?id=2783307), KDD'15
 * **GraRep**
-  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,285 | 🐛 12 | 🌐 Python | 📅 2024-07-17
+  * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
   * [\[Python\]](https://github.com/benedekrozemberczki/GraRep) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2022-11-06
   * [\[Matlab\]](https://github.com/ShelsonCao/GraRep) ⭐ 53 | 🐛 2 | 🌐 Matlab | 📅 2018-02-22
   * [\[Julia\]](https://github.com/xgfs/GraRep.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2017-03-22
@@ -462,9 +462,9 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 
-[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,449 | 🐛 0 | 🌐 Python | 📅 2025-12-20
+[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,851 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-04-07
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,850 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
 [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers) ⭐ 2,514 | 🐛 0 | 🌐 TeX | 📅 2020-08-03
 
@@ -472,11 +472,11 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources) ⭐ 41 | 🐛 1 | 📅 2017-02-14
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,851 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-04-07
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,850 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
-[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 934 | 🐛 0 | 📅 2022-12-08
+[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 933 | 🐛 0 | 📅 2022-12-08
 
-[Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,832 | 🐛 15 | 📅 2023-12-20
+[Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,830 | 🐛 15 | 📅 2023-12-20
 
 [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) ⭐ 3,102 | 🐛 5 | 📅 2020-12-20
 
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
