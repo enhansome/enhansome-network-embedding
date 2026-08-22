@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:48:11Z",
+                "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38591
+                "stars": 38594
               }
             },
             {
@@ -1898,7 +1898,7 @@
                 "last_commit": "2023-04-14T08:09:28Z",
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7401
+                "stars": 7400
               }
             }
           ]
@@ -2415,7 +2415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:04:29.113Z",
+    "last_updated": "2026-08-22T12:55:09.041Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
