@@ -2412,10 +2412,217 @@
         }
       ],
       "title": "Paper References with the implementation(s)"
+    },
+    {
+      "description": "13th International Workshop on Mining and Learning with Graphs, MLG'17\nWWW-18 Tutorial Representation Learning on Networks, WWW'18",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graph Neural Networks for Natural Language Processing",
+          "description": ", EMNLP'19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211071855,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:20:19Z",
+            "owner": "svjan5",
+            "repo": "GNNs-for-NLP",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMORe : Modularize Graph Embedding for Recommendation",
+          "description": ", RecSys'19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74262590,
+            "language": "C++",
+            "last_commit": "2022-10-07T10:27:05Z",
+            "owner": "cnclabs",
+            "repo": "smore",
+            "stars": 375
+          }
+        }
+      ],
+      "title": "Conference & Workshop"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-graph-classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140943444,
+            "language": "Python",
+            "last_commit": "2023-03-18T12:10:08Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-graph-classification",
+            "stars": 4798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-community-detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152444880,
+            "language": "Python",
+            "last_commit": "2025-12-20T17:06:00Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-community-detection",
+            "stars": 2450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-embedding-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75587993,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-04-07T22:56:01Z",
+            "owner": "Hironsan",
+            "repo": "awesome-embedding-models",
+            "stars": 1850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Must-read papers on network representation learning (NRL) / network embedding (NE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91412787,
+            "language": "TeX",
+            "last_commit": "2020-08-03T10:53:46Z",
+            "owner": "thunlp",
+            "repo": "NRLPapers",
+            "stars": 2514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120101597,
+            "language": "TeX",
+            "last_commit": "2021-08-29T07:30:25Z",
+            "owner": "thunlp",
+            "repo": "KRLPapers",
+            "stars": 1523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Embedding Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81979248,
+            "language": null,
+            "last_commit": "2017-02-14T19:48:27Z",
+            "owner": "nate-russell",
+            "repo": "Network-Embedding-Resources",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-embedding-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75587993,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-04-07T22:56:01Z",
+            "owner": "Hironsan",
+            "repo": "awesome-embedding-models",
+            "stars": 1850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2vec-type embedding models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59341837,
+            "language": null,
+            "last_commit": "2022-12-08T11:47:32Z",
+            "owner": "MaxwellRebo",
+            "repo": "awesome-2vec",
+            "stars": 933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Must-read papers on GNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162940724,
+            "language": null,
+            "last_commit": "2023-12-20T03:33:14Z",
+            "owner": "thunlp",
+            "repo": "GNNPapers",
+            "stars": 16828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteratureDL4Graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192863535,
+            "language": null,
+            "last_commit": "2020-12-20T23:21:04Z",
+            "owner": "DeepGraphLearning",
+            "repo": "LiteratureDL4Graph",
+            "stars": 3102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-graph-classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140943444,
+            "language": "Python",
+            "last_commit": "2023-03-18T12:10:08Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-graph-classification",
+            "stars": 4798
+          }
+        }
+      ],
+      "title": "Related List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:06:49.927Z",
+    "last_updated": "2026-08-24T14:00:56.049Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
