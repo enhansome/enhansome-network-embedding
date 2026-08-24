@@ -468,7 +468,7 @@
                 "last_commit": "2026-08-17T23:02:36Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24024
+                "stars": 24030
               }
             }
           ]
@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2022-04-09T20:10:06Z",
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3545
+                "stars": 3547
               }
             },
             {
@@ -1354,7 +1354,7 @@
                 "last_commit": "2022-11-21T22:25:56Z",
                 "owner": "mims-harvard",
                 "repo": "decagon",
-                "stars": 473
+                "stars": 474
               }
             }
           ]
@@ -1567,7 +1567,7 @@
                 "last_commit": "2025-05-23T17:51:10Z",
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1755
+                "stars": 1756
               }
             }
           ]
@@ -2415,7 +2415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:57:18.484Z",
+    "last_updated": "2026-08-24T13:06:49.927Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
