@@ -223,7 +223,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "Accenture/AmpliGraph",
               "description": null,
               "children": [],
               "repo_info": {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-06T22:50:36Z",
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2237
+                "stars": 2238
               }
             }
           ]
@@ -245,7 +245,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[Code]",
+              "title": "claws-lab/jodie",
               "description": null,
               "children": [],
               "repo_info": {
@@ -267,7 +267,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[github]",
+              "title": "facebookresearch/PyTorch-BigGraph",
               "description": null,
               "children": [],
               "repo_info": {
@@ -289,7 +289,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "zhenv5/atp",
               "description": null,
               "children": [],
               "repo_info": {
@@ -436,7 +436,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "GemsLab/REGAL",
               "description": null,
               "children": [],
               "repo_info": {
@@ -465,7 +465,7 @@
                 "archived": false,
                 "id": 106024057,
                 "language": "Python",
-                "last_commit": "2026-08-17T23:02:36Z",
+                "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24030
@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -724,7 +724,7 @@
             },
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "benedekrozemberczki/SINE",
               "description": null,
               "children": [],
               "repo_info": {
@@ -776,7 +776,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "benedekrozemberczki/SGCN",
               "description": null,
               "children": [],
               "repo_info": {
@@ -828,7 +828,7 @@
             },
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "benedekrozemberczki/TENE",
               "description": null,
               "children": [],
               "repo_info": {
@@ -969,7 +969,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "liqimai/gcn",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1579,7 +1579,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "ntumslab/PRUNE",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1660,7 +1660,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "facebookresearch/StarSpace",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1682,7 +1682,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "cnclabs/proNet-core",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -1822,7 +1822,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[TF]",
               "description": "[TF] [PyTorch]",
               "children": [],
               "repo_info": {
@@ -1844,7 +1844,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[demo]",
+              "title": "cnclabs/ICE",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -1866,7 +1866,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "chentingpc/GuidedHeteEmbedding",
               "description": "[code]",
               "children": [],
               "repo_info": {
@@ -1888,7 +1888,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python Tensorflow]",
               "description": "[Python Tensorflow]",
               "children": [],
               "repo_info": {
@@ -1910,7 +1910,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python Tensorflow]",
               "description": "[Python Tensorflow]",
               "children": [],
               "repo_info": {
@@ -1932,7 +1932,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[Python]",
               "description": "[Python]",
               "children": [],
               "repo_info": {
@@ -1998,7 +1998,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[source]",
+              "title": "TimDettmers/ConvE",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2020,7 +2020,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python]",
               "description": "[Python] [Python-2] [Python-3] [C++]",
               "children": [],
               "repo_info": {
@@ -2086,7 +2086,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python]",
               "description": "[Python]",
               "children": [],
               "repo_info": {
@@ -2108,7 +2108,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[Java]",
               "description": "[Java]",
               "children": [],
               "repo_info": {
@@ -2130,7 +2130,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python]",
               "description": "[Python]",
               "children": [],
               "repo_info": {
@@ -2174,7 +2174,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[code]",
+              "title": "lqhl/PowerWalk",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2196,7 +2196,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[C++]",
               "description": "[C++] [Python TF] [Python Theano/Keras]",
               "children": [],
               "repo_info": {
@@ -2307,7 +2307,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[C++]",
               "description": "[C++] [faster version]",
               "children": [],
               "repo_info": {
@@ -2329,7 +2329,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "[Matlab]",
               "description": "[Matlab] [Python]",
               "children": [],
               "repo_info": {
@@ -2351,7 +2351,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python]",
               "description": "[Python] [C++]",
               "children": [],
               "repo_info": {
@@ -2373,7 +2373,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv]",
+              "title": "[Python]",
               "description": "[Python]",
               "children": [],
               "repo_info": {
@@ -2395,7 +2395,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[paper]",
+              "title": "shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
               "description": "[Code]",
               "children": [],
               "repo_info": {
@@ -2494,7 +2494,7 @@
             "last_commit": "2019-04-07T22:56:01Z",
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1850
+            "stars": 1851
           }
         },
         {
@@ -2554,7 +2554,7 @@
             "last_commit": "2019-04-07T22:56:01Z",
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1850
+            "stars": 1851
           }
         },
         {
@@ -2584,7 +2584,7 @@
             "last_commit": "2023-12-20T03:33:14Z",
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16828
+            "stars": 16829
           }
         },
         {
@@ -2599,7 +2599,7 @@
             "last_commit": "2020-12-20T23:21:04Z",
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3102
+            "stars": 3103
           }
         },
         {
@@ -2622,7 +2622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:56.049Z",
+    "last_updated": "2026-08-25T05:59:23.355Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
