@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,697 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,794 | 🐛 106 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -120,7 +120,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,614 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,616 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
@@ -341,7 +341,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python-sklearn\]](https://github.com/mnick/holographic-embeddings) ⭐ 180 | 🐛 8 | 🌐 Python | 📅 2018-08-13 [\[Python-sklearn2\]](https://github.com/mnick/scikit-kge) ⭐ 476 | 🐛 11 | 🌐 Python | 📅 2019-02-10
   * [Holographic Embeddings of Knowledge Graphs](http://dl.acm.org/citation.cfm?id=3016172), AAAI'16
 * **ComplEx**
-  * [\[arxiv\]](https://arxiv.org/abs/1606.06357) [\[Python\]](https://github.com/ttrouill/complex) ⭐ 332 | 🐛 2 | 🌐 Python | 📅 2019-07-31
+  * [\[arxiv\]](https://arxiv.org/abs/1606.06357) [\[Python\]](https://github.com/ttrouill/complex) ⭐ 333 | 🐛 2 | 🌐 Python | 📅 2019-07-31
   * [Complex Embeddings for Simple Link Prediction](http://dl.acm.org/citation.cfm?id=3045609), ICML'16
 * **MMDW**
   * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [\[Java\]](https://github.com/thunlp/MMDW) ⭐ 73 | 🐛 1 | 🌐 Java | 📅 2017-05-09

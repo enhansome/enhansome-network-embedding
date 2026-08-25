@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38616
               }
             },
             {
@@ -2096,7 +2096,7 @@
                 "last_commit": "2019-07-31T12:08:35Z",
                 "owner": "ttrouill",
                 "repo": "complex",
-                "stars": 332
+                "stars": 333
               }
             }
           ]
@@ -2622,7 +2622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:23.355Z",
+    "last_updated": "2026-08-25T13:04:58.985Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
