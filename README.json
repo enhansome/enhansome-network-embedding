@@ -468,7 +468,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24030
+                "stars": 24032
               }
             }
           ]
@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38616
+                "stars": 38624
               }
             },
             {
@@ -2464,7 +2464,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4798
+            "stars": 4799
           }
         },
         {
@@ -2614,7 +2614,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4798
+            "stars": 4799
           }
         }
       ],
@@ -2622,7 +2622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:04:58.985Z",
+    "last_updated": "2026-08-26T13:09:59.661Z",
     "original_repository": "chihming/awesome-network-embedding",
     "original_repository_id": 74880098,
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
