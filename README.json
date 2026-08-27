@@ -468,7 +468,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24032
+                "stars": 24037
               }
             }
           ]
@@ -490,7 +490,7 @@
                 "last_commit": "2023-11-16T15:14:14Z",
                 "owner": "ibalazevic",
                 "repo": "TuckER",
-                "stars": 368
+                "stars": 369
               }
             }
           ]
@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2022-04-09T20:10:06Z",
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3547
+                "stars": 3548
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2023-07-06T21:23:03Z",
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3122
+                "stars": 3123
               }
             }
           ]
@@ -1920,7 +1920,7 @@
                 "last_commit": "2020-01-03T12:56:37Z",
                 "owner": "tkipf",
                 "repo": "gae",
-                "stars": 1741
+                "stars": 1742
               }
             }
           ]
@@ -2428,7 +2428,7 @@
             "last_commit": "2023-03-24T23:20:19Z",
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -2464,7 +2464,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4799
+            "stars": 4800
           }
         },
         {
@@ -2494,7 +2494,7 @@
             "last_commit": "2019-04-07T22:56:01Z",
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1851
+            "stars": 1852
           }
         },
         {
@@ -2554,7 +2554,7 @@
             "last_commit": "2019-04-07T22:56:01Z",
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1851
+            "stars": 1852
           }
         },
         {
@@ -2584,7 +2584,7 @@
             "last_commit": "2023-12-20T03:33:14Z",
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16829
+            "stars": 16831
           }
         },
         {
@@ -2614,7 +2614,7 @@
             "last_commit": "2023-03-18T12:10:08Z",
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4799
+            "stars": 4800
           }
         }
       ],
@@ -2622,9 +2622,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:09:59.661Z",
-    "original_repository": "chihming/awesome-network-embedding",
-    "original_repository_id": 74880098,
+    "last_updated": "2026-08-27T11:51:46.077Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 74880098,
+      "language": null,
+      "last_commit": "2020-12-08T09:34:45Z",
+      "owner": "chihming",
+      "repo": "awesome-network-embedding",
+      "stars": 2627
+    },
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
     "enhanced_repository": "enhansome/enhansome-network-embedding",
     "enhanced_repository_description": null,
