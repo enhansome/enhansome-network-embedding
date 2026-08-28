@@ -21,7 +21,8 @@
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
                 "stars": 1903
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -58,7 +60,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "FEATHER",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -80,7 +83,8 @@
                 "owner": "librahu",
                 "repo": "HeGAN",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -102,7 +106,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -124,7 +129,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -146,7 +152,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -168,7 +175,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -190,7 +198,8 @@
                 "owner": "zhengwang100",
                 "repo": "RECT",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -212,7 +221,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "GEMSEC",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -234,7 +244,8 @@
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
                 "stars": 2238
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -256,7 +267,8 @@
                 "owner": "claws-lab",
                 "repo": "jodie",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -278,7 +290,8 @@
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
                 "stars": 3454
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -300,7 +313,8 @@
                 "owner": "zhenv5",
                 "repo": "atp",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -322,7 +336,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -337,7 +352,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "MUSAE",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -359,7 +375,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "SEAL-CI",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -381,7 +398,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "MixHop-and-N-GCN",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -403,7 +421,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "CapsGNN",
                 "stars": 1278
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -425,7 +444,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "Splitter",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -447,7 +467,8 @@
                 "owner": "GemsLab",
                 "repo": "REGAL",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -468,8 +489,9 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24041
-              }
+                "stars": 24043
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -491,7 +513,8 @@
                 "owner": "ibalazevic",
                 "repo": "TuckER",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -513,7 +536,8 @@
                 "owner": "ibalazevic",
                 "repo": "HypER",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -535,7 +559,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "GraphWaveletNeuralNetwork",
                 "stars": 607
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -550,7 +575,8 @@
                 "owner": "Eilene",
                 "repo": "GWNN",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -572,7 +598,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "APPNP",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -587,7 +614,8 @@
                 "owner": "gasteigerjo",
                 "repo": "ppnp",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -609,7 +637,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -624,7 +653,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "role2vec",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -645,8 +675,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38631
-              }
+                "stars": 38642
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -661,7 +692,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "AttentionWalk",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -682,8 +714,9 @@
                 "last_commit": "2022-04-09T20:10:06Z",
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3548
-              }
+                "stars": 3547
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -698,7 +731,8 @@
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
                 "stars": 3123
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -720,7 +754,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -735,7 +770,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "SINE",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -750,7 +786,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "SINE",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -765,7 +802,8 @@
                 "owner": "daokunzhang",
                 "repo": "SINE",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -787,7 +825,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -802,7 +841,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -824,7 +864,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -839,7 +880,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "TENE",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -854,7 +896,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "TENE",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -876,7 +919,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -891,7 +935,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "DANMF",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -906,7 +951,8 @@
                 "owner": "smartyfh",
                 "repo": "DANMF",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -928,7 +974,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -943,7 +990,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "BANE",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1006,8 @@
                 "owner": "ICDM2018-BANE",
                 "repo": "BANE",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -980,7 +1029,8 @@
                 "owner": "liqimai",
                 "repo": "gcn",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1002,7 +1052,8 @@
                 "owner": "shudan",
                 "repo": "PCTADW",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1024,7 +1075,8 @@
                 "owner": "HongyangGao",
                 "repo": "LGCN",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1046,7 +1098,8 @@
                 "owner": "ysyushi",
                 "repo": "aspem",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1068,7 +1121,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1137,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "walklets",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1105,7 +1160,8 @@
                 "owner": "snash4",
                 "repo": "GAT2VEC",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1127,7 +1183,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1199,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "FSCNMF",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1215,8 @@
                 "owner": "sambaranban",
                 "repo": "FSCNMF",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1179,7 +1238,8 @@
                 "owner": "nd7141",
                 "repo": "AWE",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1201,7 +1261,8 @@
                 "owner": "clhchtcjj",
                 "repo": "BiNE",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1223,7 +1284,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1245,7 +1307,8 @@
                 "owner": "xgfs",
                 "repo": "verse",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1267,7 +1330,8 @@
                 "owner": "dawnranger",
                 "repo": "pytorch-AGNN",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1289,7 +1353,8 @@
                 "owner": "HazyResearch",
                 "repo": "hyperbolics",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1311,7 +1376,8 @@
                 "owner": "muhanzhang",
                 "repo": "DGCNN",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1333,7 +1399,8 @@
                 "owner": "Hanjun-Dai",
                 "repo": "pytorch_structure2vec",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1355,7 +1422,8 @@
                 "owner": "mims-harvard",
                 "repo": "decagon",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1377,7 +1445,8 @@
                 "owner": "tadpole",
                 "repo": "DHNE",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1399,7 +1468,8 @@
                 "owner": "mims-harvard",
                 "repo": "ohmnet",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1421,7 +1491,8 @@
                 "owner": "xiaohan2012",
                 "repo": "sdne-keras",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1443,7 +1514,8 @@
                 "owner": "supriya-gdptl",
                 "repo": "STWalk",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1465,7 +1537,8 @@
                 "owner": "vuptran",
                 "repo": "graph-representation-learning",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1487,7 +1560,8 @@
                 "owner": "zhengwang100",
                 "repo": "RSDNE",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1509,7 +1583,8 @@
                 "owner": "matenure",
                 "repo": "FastGCN",
                 "stars": 529
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1531,7 +1606,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1546,7 +1622,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "diff2vec",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1568,7 +1645,8 @@
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
                 "stars": 1756
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1590,7 +1668,8 @@
                 "owner": "ntumslab",
                 "repo": "PRUNE",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1612,7 +1691,8 @@
                 "owner": "liziliao",
                 "repo": "ASNE",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1627,7 +1707,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "ASNE",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1649,7 +1730,8 @@
                 "owner": "snap-stanford",
                 "repo": "graphwave",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1671,7 +1753,8 @@
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
                 "stars": 3952
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1693,7 +1776,8 @@
                 "owner": "cnclabs",
                 "repo": "proNet-core",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1715,7 +1799,8 @@
                 "owner": "leoribeiro",
                 "repo": "struc2vec",
                 "stars": 393
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1737,7 +1822,8 @@
                 "owner": "andompesta",
                 "repo": "ComE",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1759,7 +1845,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1774,7 +1861,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "BoostedFactorization",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1796,7 +1884,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -1811,7 +1900,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "M-NMF",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1833,7 +1923,8 @@
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
                 "stars": 3719
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1855,7 +1946,8 @@
                 "owner": "cnclabs",
                 "repo": "ICE",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1877,7 +1969,8 @@
                 "owner": "chentingpc",
                 "repo": "GuidedHeteEmbedding",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1899,7 +1992,8 @@
                 "owner": "tkipf",
                 "repo": "gcn",
                 "stars": 7400
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1921,7 +2015,8 @@
                 "owner": "tkipf",
                 "repo": "gae",
                 "stars": 1742
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1943,7 +2038,8 @@
                 "owner": "thunlp",
                 "repo": "CANE",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1965,7 +2061,8 @@
                 "owner": "thunlp",
                 "repo": "TransNet",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -1987,7 +2084,8 @@
                 "owner": "mdeff",
                 "repo": "cnn_graph",
                 "stars": 1366
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2009,7 +2107,8 @@
                 "owner": "TimDettmers",
                 "repo": "ConvE",
                 "stars": 691
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2031,7 +2130,8 @@
                 "owner": "aditya-grover",
                 "repo": "node2vec",
                 "stars": 2739
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2053,7 +2153,8 @@
                 "owner": "ShelsonCao",
                 "repo": "DNGR",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2075,7 +2176,8 @@
                 "owner": "mnick",
                 "repo": "holographic-embeddings",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2097,7 +2199,8 @@
                 "owner": "ttrouill",
                 "repo": "complex",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2119,7 +2222,8 @@
                 "owner": "thunlp",
                 "repo": "MMDW",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2140,8 +2244,9 @@
                 "last_commit": "2020-03-05T21:03:14Z",
                 "owner": "kimiyoung",
                 "repo": "planetoid",
-                "stars": 963
-              }
+                "stars": 962
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2163,7 +2268,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "graph2vec",
                 "stars": 934
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2185,7 +2291,8 @@
                 "owner": "lqhl",
                 "repo": "PowerWalk",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2207,7 +2314,8 @@
                 "owner": "tangjianpku",
                 "repo": "LINE",
                 "stars": 1053
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2229,7 +2337,8 @@
                 "owner": "mnqu",
                 "repo": "PTE",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2251,7 +2360,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -2266,7 +2376,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "GraRep",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -2281,7 +2392,8 @@
                 "owner": "ShelsonCao",
                 "repo": "GraRep",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             },
             {
               "node_type": "item",
@@ -2296,7 +2408,8 @@
                 "owner": "xgfs",
                 "repo": "GraRep.jl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2318,7 +2431,8 @@
                 "owner": "thunlp",
                 "repo": "KB2E",
                 "stars": 1420
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2340,7 +2454,8 @@
                 "owner": "thunlp",
                 "repo": "TADW",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2362,7 +2477,8 @@
                 "owner": "phanein",
                 "repo": "deepwalk",
                 "stars": 2759
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2384,7 +2500,8 @@
                 "owner": "palash1992",
                 "repo": "GEM",
                 "stars": 1288
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         },
@@ -2406,7 +2523,8 @@
                 "owner": "shenxiaocam",
                 "repo": "Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:12:56.693Z"
             }
           ]
         }
@@ -2429,7 +2547,8 @@
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2444,7 +2563,8 @@
             "owner": "cnclabs",
             "repo": "smore",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         }
       ],
       "title": "Conference & Workshop"
@@ -2465,7 +2585,8 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
             "stars": 4801
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2480,7 +2601,8 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
             "stars": 2450
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2495,7 +2617,8 @@
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
             "stars": 1852
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2510,7 +2633,8 @@
             "owner": "thunlp",
             "repo": "NRLPapers",
             "stars": 2514
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2525,7 +2649,8 @@
             "owner": "thunlp",
             "repo": "KRLPapers",
             "stars": 1523
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2540,7 +2665,8 @@
             "owner": "nate-russell",
             "repo": "Network-Embedding-Resources",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2555,7 +2681,8 @@
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
             "stars": 1852
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2570,7 +2697,8 @@
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
             "stars": 933
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2584,8 +2712,9 @@
             "last_commit": "2023-12-20T03:33:14Z",
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16831
-          }
+            "stars": 16832
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2600,7 +2729,8 @@
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
             "stars": 3103
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         },
         {
           "node_type": "item",
@@ -2615,14 +2745,15 @@
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
             "stars": 4801
-          }
+          },
+          "first_seen": "2026-08-28T22:12:56.693Z"
         }
       ],
       "title": "Related List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:12:01.883Z",
+    "last_updated": "2026-08-28T22:12:56.693Z",
     "original_repository_info": {
       "archived": false,
       "id": 74880098,
