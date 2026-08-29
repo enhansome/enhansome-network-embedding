@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform for designing and evaluating Graph Neural Networks (GNN)",
+                "homepage": null,
                 "id": 303907761,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-10T05:37:18Z",
+                "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1903
+                "stars": 1903,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -38,12 +43,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -54,12 +85,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reference implementation of FEATHER from the CIKM '20 paper \"Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models\".",
+                "homepage": null,
                 "id": 241165262,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-18T12:13:01Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "FEATHER",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "data-mining",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deepwalk",
+                  "graph",
+                  "graph-classification",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-kernel",
+                  "graph2vec",
+                  "machine-learning",
+                  "network-embedding",
+                  "networkx",
+                  "neural-network",
+                  "node-classification",
+                  "node-embedding",
+                  "node2vec",
+                  "pytorch",
+                  "representation-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -77,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for KDD 2019 paper \"Adversarial Learning on Heterogeneous Information Networks\"",
+                "homepage": null,
                 "id": 170280340,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-05T09:34:38Z",
+                "open_issues": 8,
                 "owner": "librahu",
                 "repo": "HeGAN",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -100,12 +162,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -123,12 +211,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -146,12 +260,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -169,12 +309,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -192,12 +358,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the source code of \"Network Embedding with Completely-Imbalanced Labels\". TKDE2020",
+                "homepage": null,
                 "id": 242474364,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-23T06:05:58Z",
+                "open_issues": 0,
                 "owner": "zhengwang100",
                 "repo": "RECT",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "graph-embedding",
+                  "graph-representation-learning",
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -215,12 +390,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The TensorFlow reference implementation of 'GEMSEC: Graph Embedding with Self Clustering' (ASONAM 2019).",
+                "homepage": null,
                 "id": 118673831,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:14:27Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "GEMSEC",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "clustering",
+                  "community-detection",
+                  "deepwalk",
+                  "deezer",
+                  "embedding",
+                  "facebook",
+                  "gemsec",
+                  "gensim",
+                  "graph-embedding",
+                  "implicit-factorization",
+                  "m-nmf",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "network-embedding",
+                  "neural-network",
+                  "node2vec",
+                  "semisupervised-learning",
+                  "tensorflow",
+                  "unsupervised-learning",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -238,12 +439,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org",
+                "homepage": null,
                 "id": 164881995,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T22:50:36Z",
+                "open_issues": 30,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2238
+                "stars": 2238,
+                "topics": [
+                  "graph-embeddings",
+                  "graph-representation-learning",
+                  "knowledge-graph",
+                  "knowledge-graph-embeddings",
+                  "machine-learning",
+                  "relational-learning",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -261,12 +475,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of ACM SIGKDD 2019 paper \"Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks\"",
+                "homepage": null,
                 "id": 193973813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:13:39Z",
+                "open_issues": 18,
                 "owner": "claws-lab",
                 "repo": "jodie",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "dynamic-networks",
+                  "embedding-trajectories",
+                  "embeddings",
+                  "kdd2019",
+                  "machine-learning",
+                  "network-embedding",
+                  "representation-learning",
+                  "temporal-network"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -284,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generate embeddings from large-scale graph-structured data.",
+                "homepage": "https://torchbiggraph.readthedocs.io/",
                 "id": 151156413,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-03T01:42:05Z",
+                "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3454
+                "stars": 3454,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -307,12 +540,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation",
+                "homepage": null,
                 "id": 169783064,
                 "language": "Cuda",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-04-18T15:26:22Z",
+                "open_issues": 0,
                 "owner": "zhenv5",
                 "repo": "atp",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "aaai2019",
+                  "asymmetric-transitivity",
+                  "atp",
+                  "directed-acyclic-graph",
+                  "directed-graph",
+                  "directed-graph-embedding",
+                  "graph-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -330,12 +576,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -346,12 +618,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reference implementation of \"Multi-scale Attributed Node Embedding\".  (Journal of Complex Networks 2021)",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 181892075,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-19T18:34:40Z",
+                "open_issues": 2,
                 "owner": "benedekrozemberczki",
                 "repo": "MUSAE",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "aane",
+                  "asne",
+                  "asonam",
+                  "attributed-embedding",
+                  "deep-learning",
+                  "deepwalk",
+                  "embedding",
+                  "gemsec",
+                  "gensim",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "implicit-factorization",
+                  "musae",
+                  "network-analysis",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "tadw",
+                  "walklets",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -369,12 +667,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of  \"Semi-Supervised Graph Classification: A Hierarchical Graph Perspective\" (WWW 2019)",
+                "homepage": null,
                 "id": 183039041,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:14:17Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "SEAL-CI",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "active-learning",
+                  "active-learning-module",
+                  "deep-learning",
+                  "deep-learning-algorithms",
+                  "deepwalk",
+                  "gcn",
+                  "gnn",
+                  "graph-classification",
+                  "graph-convolution",
+                  "graph-convolutional-networks",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "graph-neural-networks",
+                  "graph-representation-learning",
+                  "machine-learning-algorithms",
+                  "network-embedding",
+                  "node-classification",
+                  "node2vec",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -392,12 +716,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of \"MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing\" (ICML 2019).",
+                "homepage": null,
                 "id": 172220566,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:17:00Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "MixHop-and-N-GCN",
-                "stars": 406
+                "stars": 406,
+                "topics": [
+                  "convolutional",
+                  "convolutional-layers",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deepwalk",
+                  "gcn",
+                  "graph-attention",
+                  "graph-attention-networks",
+                  "graph-convolution",
+                  "graph-representation-learning",
+                  "machine-learning",
+                  "mixhop",
+                  "multi-scale",
+                  "ngcn",
+                  "node2vec",
+                  "pytorch",
+                  "pytorch-cnn",
+                  "tensorflow",
+                  "walklet",
+                  "walklets"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -415,12 +765,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"Capsule Graph Neural Network\" (ICLR 2019).",
+                "homepage": null,
                 "id": 168210197,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:08:55Z",
+                "open_issues": 4,
                 "owner": "benedekrozemberczki",
                 "repo": "CapsGNN",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "capsgnn",
+                  "capsule-network",
+                  "capsule-neural-networks",
+                  "convolution",
+                  "deep-learning",
+                  "deepwalk",
+                  "gnn",
+                  "graph-attention-model",
+                  "graph-attention-networks",
+                  "graph-classification",
+                  "graph-convolution",
+                  "graph-neural-network",
+                  "machine-learning",
+                  "node2vec",
+                  "pytorch",
+                  "research",
+                  "sklearn",
+                  "struc2vec",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -438,12 +813,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pytorch implementation of \"Splitter: Learning Node Representations that Capture Multiple Social Contexts\" (WWW 2019).",
+                "homepage": null,
                 "id": 176126044,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-06T22:50:48Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "Splitter",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "clustering",
+                  "community-detection",
+                  "deep-learning",
+                  "deep-neural-network",
+                  "deepwalk",
+                  "ego-splitting",
+                  "factorization",
+                  "gensim",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "graph-representation-learning",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "overlapping-community-detection",
+                  "pytorch",
+                  "word-vector",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -461,12 +862,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Representation learning-based graph alignment based on implicit matrix factorization and structural embeddings",
+                "homepage": "https://gemslab.github.io/papers/heimann-2018-regal.pdf",
                 "id": 146050745,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-30T13:41:54Z",
+                "open_issues": 7,
                 "owner": "GemsLab",
                 "repo": "REGAL",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "graph-matching",
+                  "matrix-factorization",
+                  "network-alignment",
+                  "network-embedding",
+                  "node-embedding",
+                  "representation-learning",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -484,12 +898,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Neural Network Library for PyTorch",
+                "homepage": "https://pyg.org",
                 "id": 106024057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:53:29Z",
+                "open_issues": 1318,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24043
+                "stars": 24043,
+                "topics": [
+                  "deep-learning",
+                  "geometric-deep-learning",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -507,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TuckER: Tensor Factorization for Knowledge Graph Completion",
+                "homepage": null,
                 "id": 167696782,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-16T15:14:14Z",
+                "open_issues": 2,
                 "owner": "ibalazevic",
                 "repo": "TuckER",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -530,12 +960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hypernetwork Knowledge Graph Embeddings",
+                "homepage": null,
                 "id": 133713292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-09-21T08:16:58Z",
+                "open_issues": 5,
                 "owner": "ibalazevic",
                 "repo": "HypER",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -553,12 +988,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"Graph Wavelet Neural Network\" (ICLR 2019)",
+                "homepage": null,
                 "id": 166455175,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:13:09Z",
+                "open_issues": 2,
                 "owner": "benedekrozemberczki",
                 "repo": "GraphWaveletNeuralNetwork",
-                "stars": 607
+                "stars": 607,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deepwalk",
+                  "gcn",
+                  "gpt2",
+                  "gpt3",
+                  "graph-convolution",
+                  "graph-convolutional-network",
+                  "graph-neural-networks",
+                  "graph-representation",
+                  "graphsage",
+                  "gwnn",
+                  "iclr",
+                  "machine-learning",
+                  "node2vec",
+                  "pytorch",
+                  "research",
+                  "sklearn",
+                  "tensorflow",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -569,12 +1030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A TensorFlow implementation of Graph Wavelet Neural Network",
+                "homepage": null,
                 "id": 167883355,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-28T15:01:17Z",
+                "open_issues": 6,
                 "owner": "Eilene",
                 "repo": "GWNN",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -592,12 +1058,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"Predict then Propagate: Graph Neural Networks meet Personalized PageRank\" (ICLR 2019).",
+                "homepage": null,
                 "id": 170295133,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:13:30Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "APPNP",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "appnp",
+                  "attention",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deepwalk",
+                  "gcn",
+                  "graph-attention",
+                  "graph-classification",
+                  "graph-convolutional-neural-networks",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "iclr",
+                  "machine-learning",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "pagerank",
+                  "ppnp",
+                  "pytorch",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -608,12 +1100,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PPNP & APPNP models from \"Predict then Propagate: Graph Neural Networks meet Personalized PageRank\" (ICLR 2019)",
+                "homepage": "https://www.daml.in.tum.de/ppnp",
                 "id": 171670880,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-12-09T10:00:57Z",
+                "open_issues": 0,
                 "owner": "gasteigerjo",
                 "repo": "ppnp",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "deep-learning",
+                  "gcn",
+                  "gnn",
+                  "graph-algorithms",
+                  "graph-classification",
+                  "graph-neural-networks",
+                  "machine-learning",
+                  "pagerank",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -631,12 +1139,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -647,12 +1181,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable Gensim implementation of \"Learning Role-based Graph Embeddings\" (IJCAI 2018).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 167860349,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:10:54Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "role2vec",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "deep-learning",
+                  "deepwalk",
+                  "gensim",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "graph-wavelet",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "node-embedding",
+                  "node2vec",
+                  "pytorch",
+                  "representation-learning",
+                  "research",
+                  "sklearn",
+                  "struc2vec",
+                  "tensorflow",
+                  "weisfeiler-lehman",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -670,12 +1230,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -686,12 +1255,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of \"Watch Your Step: Learning Node Embeddings via Graph Attention\" (NeurIPS 2018).",
+                "homepage": null,
                 "id": 165262775,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:09:53Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "AttentionWalk",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "attention",
+                  "deep-learning",
+                  "deepwalk",
+                  "graph-attention",
+                  "graph-neural-networks",
+                  "graph-representation-learning",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "neurips",
+                  "neurips-2018",
+                  "nips",
+                  "node2vec",
+                  "pytorch",
+                  "sklearn",
+                  "structural-attention",
+                  "tensorflow",
+                  "torch",
+                  "walklet",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -709,12 +1304,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Attention Networks (https://arxiv.org/abs/1710.10903)",
+                "homepage": "https://petar-v.com/GAT/",
                 "id": 119770380,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-09T20:10:06Z",
+                "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3547
+                "stars": 3547,
+                "topics": [
+                  "attention-mechanism",
+                  "graph-attention-networks",
+                  "neural-networks",
+                  "python",
+                  "self-attention",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -725,12 +1332,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)",
+                "homepage": null,
                 "id": 123565023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:23:03Z",
+                "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3123
+                "stars": 3123,
+                "topics": [
+                  "attention-mechanism",
+                  "graph-attention-networks",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "self-attention"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -748,12 +1367,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -764,12 +1409,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of \"SINE: Scalable Incomplete Network Embedding\" (ICDM 2018).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 164440658,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:12:44Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "SINE",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "aane",
+                  "asne",
+                  "deep-learning",
+                  "deepwalk",
+                  "dimensionality-reduction",
+                  "gensim",
+                  "graph-embedding",
+                  "grarep",
+                  "machine-learning",
+                  "network-embedding",
+                  "networkx",
+                  "node-embedding",
+                  "node2vec",
+                  "pytorch",
+                  "sklearn",
+                  "tadw",
+                  "tensorflow",
+                  "torch",
+                  "unsupervised-learning",
+                  "walklets"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -780,12 +1451,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation of \"SINE: Scalable Incomplete Network Embedding\" (ICDM 2018).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 164440658,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:12:44Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "SINE",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "aane",
+                  "asne",
+                  "deep-learning",
+                  "deepwalk",
+                  "dimensionality-reduction",
+                  "gensim",
+                  "graph-embedding",
+                  "grarep",
+                  "machine-learning",
+                  "network-embedding",
+                  "networkx",
+                  "node-embedding",
+                  "node2vec",
+                  "pytorch",
+                  "sklearn",
+                  "tadw",
+                  "tensorflow",
+                  "torch",
+                  "unsupervised-learning",
+                  "walklets"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -796,12 +1493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for ICDM-2018 paper: SINE: Sclable Incomplete Network Embedding",
+                "homepage": null,
                 "id": 148327361,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-06-29T07:09:35Z",
+                "open_issues": 0,
                 "owner": "daokunzhang",
                 "repo": "SINE",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -819,12 +1521,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"Signed Graph Convolutional Network\" (ICDM 2018).",
+                "homepage": null,
                 "id": 160753639,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:08:47Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "deep-learning",
+                  "deepwalk",
+                  "gcn",
+                  "gpt2",
+                  "gpt3",
+                  "graph-attention",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-neural-networks",
+                  "graphsage",
+                  "machine-learning",
+                  "network-embedding",
+                  "neural-network",
+                  "node-classification",
+                  "node2vec",
+                  "pytorch",
+                  "pytorch-geometric",
+                  "sgcn",
+                  "signed-network",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -835,12 +1563,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of \"Signed Graph Convolutional Network\" (ICDM 2018).",
+                "homepage": null,
                 "id": 160753639,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:08:47Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "deep-learning",
+                  "deepwalk",
+                  "gcn",
+                  "gpt2",
+                  "gpt3",
+                  "graph-attention",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-neural-networks",
+                  "graphsage",
+                  "machine-learning",
+                  "network-embedding",
+                  "neural-network",
+                  "node-classification",
+                  "node2vec",
+                  "pytorch",
+                  "pytorch-geometric",
+                  "sgcn",
+                  "signed-network",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -858,12 +1612,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -874,12 +1654,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sparsity aware implementation of \"Enhanced Network Embedding with Text Information\" (ICPR 2018). ",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 160684935,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-19T18:34:51Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "TENE",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "asne",
+                  "attributed-embedding",
+                  "deep-learning",
+                  "deepwalk",
+                  "feature-extraction",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "matrix-decomposition",
+                  "matrix-factorization",
+                  "network-embedding",
+                  "node-classification",
+                  "node-embedding",
+                  "node2vec",
+                  "pattern-recognition",
+                  "pytorch",
+                  "tadw",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -890,12 +1696,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sparsity aware implementation of \"Enhanced Network Embedding with Text Information\" (ICPR 2018). ",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 160684935,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-19T18:34:51Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "TENE",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "asne",
+                  "attributed-embedding",
+                  "deep-learning",
+                  "deepwalk",
+                  "feature-extraction",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-neural-network",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "matrix-decomposition",
+                  "matrix-factorization",
+                  "network-embedding",
+                  "node-classification",
+                  "node-embedding",
+                  "node2vec",
+                  "pattern-recognition",
+                  "pytorch",
+                  "tadw",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -913,12 +1745,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -929,12 +1787,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sparsity aware implementation of \"Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection\" (CIKM 2018).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 158708581,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:09:13Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "DANMF",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "autoencoder",
+                  "cikm",
+                  "clustering",
+                  "community-detection",
+                  "coordinate-descent",
+                  "danmf",
+                  "data-science",
+                  "deep-learning",
+                  "deepwalk",
+                  "dimensionality-reduction",
+                  "embedding",
+                  "gemsec",
+                  "machine-learning",
+                  "mnmf",
+                  "nmf",
+                  "node-embedding",
+                  "node2vec",
+                  "sklearn",
+                  "unsupervised-learning",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -945,12 +1829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Autoencoder-like NMF",
+                "homepage": null,
                 "id": 155168322,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-01-22T00:51:36Z",
+                "open_issues": 5,
                 "owner": "smartyfh",
                 "repo": "DANMF",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "community-detection",
+                  "deep-learning",
+                  "deep-matrix-factorization",
+                  "nmf",
+                  "overlapping-community-detection"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -968,12 +1863,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -984,12 +1905,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sparsity aware implementation of \"Binarized Attributed Network Embedding\" (ICDM 2018).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 157595045,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:09:06Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "BANE",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "bane",
+                  "deepwalk",
+                  "diff2vec",
+                  "dimensionality-reduction",
+                  "embedding",
+                  "factorization",
+                  "fscnmf",
+                  "gemsec",
+                  "graph",
+                  "graph2vec",
+                  "icdm",
+                  "lane",
+                  "line",
+                  "musae",
+                  "node",
+                  "node2vec",
+                  "svd",
+                  "tadw",
+                  "tridnr",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1000,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://github.com/ICDM2018-BANE/BANE",
                 "id": 136627826,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2018-06-09T04:16:16Z",
+                "open_issues": 0,
                 "owner": "ICDM2018-BANE",
                 "repo": "BANE",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1023,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Graph Convolutional Networks in TensorFlow",
+                "homepage": null,
                 "id": 83119887,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-04-16T08:18:04Z",
+                "open_issues": 0,
                 "owner": "liqimai",
                 "repo": "gcn",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1046,12 +2003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 148555865,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-12-29T06:21:58Z",
+                "open_issues": 0,
                 "owner": "shudan",
                 "repo": "PCTADW",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1069,12 +2031,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Implementation of Large-Scale Learnable Graph Convolutional Networks (LGCN) KDD18",
+                "homepage": "https://dl.acm.org/citation.cfm?id=3219947",
                 "id": 143934629,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-07T23:07:16Z",
+                "open_issues": 0,
                 "owner": "HongyangGao",
                 "repo": "LGCN",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "convolutional-networks",
+                  "graph"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1092,12 +2062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for paper AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks",
+                "homepage": null,
                 "id": 131775485,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-02T17:53:53Z",
+                "open_issues": 0,
                 "owner": "ysyushi",
                 "repo": "aspem",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1115,12 +2090,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1131,12 +2132,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight implementation of Walklets from \"Don't Walk Skip! Online Learning of Multi-scale Network Embeddings\" (ASONAM 2017).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 144172513,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T12:12:34Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "walklets",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "deep-learning",
+                  "deepwalk",
+                  "dimensionality-reduction",
+                  "dont-walk-skip",
+                  "edge-prediction",
+                  "embedding",
+                  "gensim",
+                  "graph-convolution",
+                  "graph-embedding",
+                  "graph-mining",
+                  "graph-neural-networks",
+                  "graphlet",
+                  "machine-learning",
+                  "multiscale",
+                  "node-classification",
+                  "node-embedding",
+                  "node2vec",
+                  "walklet",
+                  "word-embedding",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1154,12 +2181,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "embedding  attributed graphs",
+                "homepage": null,
                 "id": 113980802,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2021-12-07T20:20:49Z",
+                "open_issues": 0,
                 "owner": "snash4",
                 "repo": "GAT2VEC",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "embeddings",
+                  "graph",
+                  "machine-learning",
+                  "representation-learning",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1177,12 +2215,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1193,12 +2257,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of \"Fusing Structure and Content via Non-negative Matrix Factorization for Embedding Information Networks\".",
+                "homepage": null,
                 "id": 147522485,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-14T10:26:49Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "FSCNMF",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "analytics",
+                  "artifical-intelligence",
+                  "data-mining",
+                  "data-science",
+                  "deepwalk",
+                  "embedding",
+                  "factorization-machine",
+                  "fscnmf",
+                  "graph-embedding",
+                  "graph2vec",
+                  "information-network",
+                  "machine-learning",
+                  "network-embedding",
+                  "nmf",
+                  "node-embedding",
+                  "node2vec",
+                  "pca",
+                  "regularization",
+                  "word2vec",
+                  "word2vec-model"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1209,12 +2299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the code and some dataset for the network representation technique: FSCNMF",
+                "homepage": null,
                 "id": 121172535,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-02-11T22:13:50Z",
+                "open_issues": 2,
                 "owner": "sambaranban",
                 "repo": "FSCNMF",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1232,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compute graph embeddings via Anonymous Walk Embeddings",
+                "homepage": "https://arxiv.org/abs/1805.11921",
                 "id": 96473601,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-07-17T18:02:05Z",
+                "open_issues": 3,
                 "owner": "nd7141",
                 "repo": "AWE",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1255,12 +2355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BiNE: Bipartite Network Embedding",
+                "homepage": null,
                 "id": 132771482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-03T13:36:55Z",
+                "open_issues": 8,
                 "owner": "clhchtcjj",
                 "repo": "BiNE",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1278,12 +2383,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1301,12 +2432,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference implementation of the paper VERSE: Versatile Graph Embeddings from Similarity Measures",
+                "homepage": "http://tsitsul.in/publications/verse/",
                 "id": 122595764,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-02-21T19:05:43Z",
+                "open_issues": 10,
                 "owner": "xgfs",
                 "repo": "verse",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "embeddings",
+                  "graph",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "similarity-measures"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1324,12 +2467,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of the Attention-based Graph Neural Network(AGNN)",
+                "homepage": null,
                 "id": 115491728,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-27T09:40:43Z",
+                "open_issues": 3,
                 "owner": "dawnranger",
                 "repo": "pytorch-AGNN",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "attention",
+                  "graph-convolutional-network",
+                  "network-embedding",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1347,12 +2500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperbolic Embeddings ",
+                "homepage": null,
                 "id": 118824415,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-06T21:35:59Z",
+                "open_issues": 7,
                 "owner": "HazyResearch",
                 "repo": "hyperbolics",
-                "stars": 395
+                "stars": 395,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1370,12 +2528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"M. Zhang, Z. Cui, M. Neumann, and Y. Chen, An End-to-End Deep Learning Architecture for Graph Classification, AAAI-18\".",
+                "homepage": null,
                 "id": 111512422,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2018-05-14T19:55:41Z",
+                "open_issues": 0,
                 "owner": "muhanzhang",
                 "repo": "DGCNN",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1393,12 +2556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pytorch implementation of structure2vec (https://arxiv.org/abs/1603.05629)",
+                "homepage": null,
                 "id": 114893357,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-14T14:28:02Z",
+                "open_issues": 6,
                 "owner": "Hanjun-Dai",
                 "repo": "pytorch_structure2vec",
-                "stars": 313
+                "stars": 313,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1416,12 +2584,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph convolutional neural network for multirelational link prediction",
+                "homepage": "http://snap.stanford.edu/decagon",
                 "id": 119741627,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-21T22:25:56Z",
+                "open_issues": 23,
                 "owner": "mims-harvard",
                 "repo": "decagon",
-                "stars": 474
+                "stars": 474,
+                "topics": [
+                  "deep-learning",
+                  "embeddings",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "pharmacology",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1439,12 +2619,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the Implementation of \"Structural Deep Embedding for Hyper-Networks\"（AAA20I8）",
+                "homepage": "http://nrl.thumedialab.com/Structural-Deep-Embedding-for-Hyper-Networks",
                 "id": 116108884,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-02-25T06:40:38Z",
+                "open_issues": 2,
                 "owner": "tadpole",
                 "repo": "DHNE",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "hyper-networks",
+                  "network-embedding",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1462,12 +2651,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OhmNet: Representation learning in multi-layer graphs",
+                "homepage": "http://snap.stanford.edu/ohmnet",
                 "id": 85366708,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-12T03:20:34Z",
+                "open_issues": 5,
                 "owner": "mims-harvard",
                 "repo": "ohmnet",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "bioinformatics",
+                  "deep-learning",
+                  "feature-learning",
+                  "genomics",
+                  "multi-layer",
+                  "neural-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1485,12 +2686,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation of Structural Deep Network Embedding, KDD 2016",
+                "homepage": null,
                 "id": 112871599,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-05-19T15:15:09Z",
+                "open_issues": 6,
                 "owner": "xiaohan2012",
                 "repo": "sdne-keras",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "autoencoder",
+                  "keras",
+                  "link-prediction",
+                  "network-embedding",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1508,12 +2720,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"STWalk: Learning Trajectory Representations in Temporal Graphs\"",
+                "homepage": null,
                 "id": 110342340,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-11-15T04:48:22Z",
+                "open_issues": 1,
                 "owner": "supriya-gdptl",
                 "repo": "STWalk",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "deep-learning",
+                  "graph-analysis",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1531,12 +2752,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DSAA 2018] Autoencoders for Link Prediction and Semi-Supervised Node Classification",
+                "homepage": "https://arxiv.org/abs/1802.08352",
                 "id": 122553655,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-07-18T23:53:26Z",
+                "open_issues": 3,
                 "owner": "vuptran",
                 "repo": "graph-representation-learning",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "autoencoders",
+                  "deep-learning",
+                  "graph-representation",
+                  "link-prediction",
+                  "network-embedding",
+                  "node-classification",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1554,12 +2788,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding. AAAI18",
+                "homepage": null,
                 "id": 129678041,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-05-25T14:20:50Z",
+                "open_issues": 0,
                 "owner": "zhengwang100",
                 "repo": "RSDNE",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1577,12 +2818,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The sample codes for our ICLR18 paper \"FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling\"\"",
+                "homepage": null,
                 "id": 119597123,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-25T03:16:19Z",
+                "open_issues": 26,
                 "owner": "matenure",
                 "repo": "FastGCN",
-                "stars": 529
+                "stars": 529,
+                "topics": [
+                  "fastgcn",
+                  "graph-convolutional-networks",
+                  "graphsage",
+                  "reddit"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1600,12 +2851,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1616,12 +2893,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference implementation of Diffusion2Vec (Complenet 2018) built on Gensim and NetworkX.",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 106848789,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:13:13Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "diff2vec",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "complex-networks",
+                  "deep-learning",
+                  "deepwalk",
+                  "diff2vec",
+                  "diffusion",
+                  "embedding",
+                  "embeddings",
+                  "factorization",
+                  "gensim",
+                  "graph-embedding",
+                  "implicit-factorization",
+                  "machine-learning",
+                  "network-embedding",
+                  "neural-network",
+                  "node-embedding",
+                  "node2vec",
+                  "semisupervised-learning",
+                  "struc2vec",
+                  "tensorflow",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1639,12 +2942,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch implementation of the NIPS-17 paper \"Poincaré Embeddings for Learning Hierarchical Representations\"",
+                "homepage": null,
                 "id": 118165119,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-23T17:51:10Z",
+                "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1756
+                "stars": 1756,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1662,12 +2970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PRUNE: Preserving Proximity and Global Ranking for Network Embedding",
+                "homepage": null,
                 "id": 104629644,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-07T15:01:08Z",
+                "open_issues": 1,
                 "owner": "ntumslab",
                 "repo": "PRUNE",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1685,12 +2998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation of Attributed Social Network Embedding framework (ASNE)",
+                "homepage": null,
                 "id": 91096162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-30T18:54:54Z",
+                "open_issues": 8,
                 "owner": "liziliao",
                 "repo": "ASNE",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1701,12 +3019,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sparsity aware and memory efficient implementation of \"Attributed Social Network Embedding\" (TKDE 2018).",
+                "homepage": null,
                 "id": 151743871,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:13:05Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "ASNE",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "2vec",
+                  "aane",
+                  "asne",
+                  "attributed",
+                  "attributed-embedding",
+                  "data-science",
+                  "deepwalk",
+                  "diff2vec",
+                  "dimensionality-reduction",
+                  "embedding",
+                  "factorization",
+                  "feature-extraction",
+                  "gemsec",
+                  "graph-embedding",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "representation-learning",
+                  "tensorflow",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1724,12 +3068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 109349228,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-12-03T17:11:11Z",
+                "open_issues": 13,
                 "owner": "snap-stanford",
                 "repo": "graphwave",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1747,12 +3096,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Learning embeddings for classification, retrieval and ranking.",
+                "homepage": null,
                 "id": 95696288,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-04T04:02:21Z",
+                "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3952
+                "stars": 3952,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1770,12 +3124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project has been moved to https://github.com/cnclabs/smore.",
+                "homepage": null,
                 "id": 186774626,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-05-15T07:45:01Z",
+                "open_issues": 0,
                 "owner": "cnclabs",
                 "repo": "proNet-core",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1793,12 +3152,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository provides a reference implementation of struc2vec.",
+                "homepage": null,
                 "id": 79132370,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-09T17:46:21Z",
+                "open_issues": 11,
                 "owner": "leoribeiro",
                 "repo": "struc2vec",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "algorithm",
+                  "graph"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1816,12 +3183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ComE algorithm",
+                "homepage": null,
                 "id": 101261149,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-01T01:17:58Z",
+                "open_issues": 9,
                 "owner": "andompesta",
                 "repo": "ComE",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1839,12 +3211,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1855,12 +3253,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of \"Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation\" (ASONAM 2019).",
+                "homepage": null,
                 "id": 147327025,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-19T18:35:02Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "BoostedFactorization",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "boostedne",
+                  "boosting",
+                  "boosting-machine",
+                  "data-mining",
+                  "deepwalk",
+                  "dimensionality-reduction",
+                  "factorization-machine",
+                  "gradient-boosting",
+                  "gradient-boosting-machine",
+                  "l-ensnmf",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "network-embedding",
+                  "nmf",
+                  "nmf-decomposition",
+                  "node-embedding",
+                  "node2vec",
+                  "sklearn",
+                  "unsupervised-learning",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1878,12 +3302,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -1894,12 +3344,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of  \"Community Preserving Network Embedding\" (AAAI 2017)",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 134390585,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:18:56Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "M-NMF",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "clustering",
+                  "come",
+                  "community-detection",
+                  "deep-learning",
+                  "deepwalk",
+                  "factorization",
+                  "implicit-factorization",
+                  "laplacian",
+                  "m-nmf",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "mnmf",
+                  "neural-network",
+                  "nmf",
+                  "node2vec",
+                  "representation-learning",
+                  "semisupervised-learning",
+                  "struc2vec",
+                  "tensorflow",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1917,12 +3393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Representation learning on large graphs using stochastic graph convolutions.",
+                "homepage": null,
                 "id": 92752848,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-04T16:33:52Z",
+                "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3719
+                "stars": 3719,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1940,12 +3421,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICE: Item Concept Embedding",
+                "homepage": "https://cnclabs.github.io/ICE/",
                 "id": 91826437,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-11-25T16:21:25Z",
+                "open_issues": 6,
                 "owner": "cnclabs",
                 "repo": "ICE",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "network-embedding",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1963,12 +3454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CPU-based multi-thread implementation of Task-guided and Path-augmented Heterogeneous Network Embedding",
+                "homepage": null,
                 "id": 72811168,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-06-22T05:18:32Z",
+                "open_issues": 2,
                 "owner": "chentingpc",
                 "repo": "GuidedHeteEmbedding",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -1986,12 +3482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Graph Convolutional Networks in TensorFlow",
+                "homepage": null,
                 "id": 73470551,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-14T08:09:28Z",
+                "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7400
+                "stars": 7400,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2009,12 +3510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Graph Auto-Encoders in TensorFlow",
+                "homepage": null,
                 "id": 94977683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-03T12:56:37Z",
+                "open_issues": 49,
                 "owner": "tkipf",
                 "repo": "gae",
-                "stars": 1742
+                "stars": 1742,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2032,12 +3538,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code and datasets of \"CANE: Context-Aware Network  Embedding for Relation Modeling\"",
+                "homepage": null,
                 "id": 88707705,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-03-30T05:35:36Z",
+                "open_issues": 0,
                 "owner": "thunlp",
                 "repo": "CANE",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2055,12 +3568,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code and datasets of IJCAI2017 paper \"TransNet: Translation-Based Network Representation Learning for Social Relation Extraction\".",
+                "homepage": null,
                 "id": 89247218,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-03-25T14:09:03Z",
+                "open_issues": 1,
                 "owner": "thunlp",
                 "repo": "TransNet",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2078,12 +3598,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering",
+                "homepage": "https://arxiv.org/abs/1606.09375",
                 "id": 68138233,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-06-13T21:47:49Z",
+                "open_issues": 20,
                 "owner": "mdeff",
                 "repo": "cnn_graph",
-                "stars": 1366
+                "stars": 1366,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "graph-signal-processing",
+                  "graphs"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2101,12 +3632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional 2D Knowledge Graph Embeddings resources",
+                "homepage": null,
                 "id": 94952614,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T10:58:20Z",
+                "open_issues": 24,
                 "owner": "TimDettmers",
                 "repo": "ConvE",
-                "stars": 691
+                "stars": 691,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2124,12 +3660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://snap.stanford.edu/node2vec/",
                 "id": 62104170,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2022-07-21T14:37:25Z",
+                "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2739
+                "stars": 2739,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2147,12 +3688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code of DNGR",
+                "homepage": null,
                 "id": 50649471,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-02-21T08:43:17Z",
+                "open_issues": 1,
                 "owner": "ShelsonCao",
                 "repo": "DNGR",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2170,12 +3716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for experiments in the AAAI 2016 paper \"Holographic Embeddings of Knowledge Graphs\"",
+                "homepage": null,
                 "id": 46634210,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-13T22:53:05Z",
+                "open_issues": 8,
                 "owner": "mnick",
                 "repo": "holographic-embeddings",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2193,12 +3744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for experiments in the papers \"Complex Embeddings for Simple Link Prediction\" (ICML 2016) and \"Knowledge Graph Completion via Complex Tensor Factorization\" (JMLR 2017).",
+                "homepage": null,
                 "id": 59611915,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-07-31T12:08:35Z",
+                "open_issues": 2,
                 "owner": "ttrouill",
                 "repo": "complex",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2216,12 +3772,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Max-margin DeepWalk",
+                "homepage": null,
                 "id": 56471599,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-05-09T09:07:36Z",
+                "open_issues": 1,
                 "owner": "thunlp",
                 "repo": "MMDW",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2239,12 +3802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-supervised learning with graph embeddings",
+                "homepage": null,
                 "id": 62000887,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-05T21:03:14Z",
+                "open_issues": 19,
                 "owner": "kimiyoung",
                 "repo": "planetoid",
-                "stars": 962
+                "stars": 962,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2262,12 +3830,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parallel implementation of \"graph2vec: Learning Distributed Representations of Graphs\" (MLGWorkshop 2017).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 140419579,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:15:35Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "graph2vec",
-                "stars": 934
+                "stars": 934,
+                "topics": [
+                  "deepwalk",
+                  "diff2vec",
+                  "gemsec",
+                  "graph-embedding",
+                  "graph-kernel",
+                  "graph-wavelet",
+                  "graph2vec",
+                  "implicit-matrix-factorization",
+                  "kernel",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "node-embedding",
+                  "node2vec",
+                  "noise-contrastive-estimation",
+                  "struc2vec",
+                  "subgraph2vec",
+                  "transformer",
+                  "unsupervised-learning",
+                  "weisfeiler-lehman",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2285,12 +3879,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personalized PageRank (PPR) on GraphLab PowerGraph",
+                "homepage": null,
                 "id": 38031557,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-01-03T05:28:43Z",
+                "open_issues": 0,
                 "owner": "lqhl",
                 "repo": "PowerWalk",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "graph-algorithms",
+                  "graph-processing",
+                  "pagerank-algorithm",
+                  "random-walk"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2308,12 +3912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LINE: Large-scale information network embedding",
+                "homepage": null,
                 "id": 31750893,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-07-16T05:03:25Z",
+                "open_issues": 33,
                 "owner": "tangjianpku",
                 "repo": "LINE",
-                "stars": 1053
+                "stars": 1053,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2331,12 +3940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 70191924,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2017-10-24T02:20:20Z",
+                "open_issues": 2,
                 "owner": "mnqu",
                 "repo": "PTE",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2354,12 +3968,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020)",
+                "homepage": "https://karateclub.readthedocs.io",
                 "id": 226155948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-17T19:00:35Z",
+                "open_issues": 12,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "2vec",
+                  "community-detection",
+                  "deepwalk",
+                  "gcn",
+                  "graph-clustering",
+                  "graph-embedding",
+                  "graph2vec",
+                  "label-propagation",
+                  "louvain",
+                  "machine-learning",
+                  "network-embedding",
+                  "network-science",
+                  "networkx",
+                  "networkx-graph",
+                  "node-embedding",
+                  "node2vec",
+                  "scikit",
+                  "sklearn",
+                  "supervised-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -2370,12 +4010,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SciPy implementation of \"GraRep: Learning Graph Representations with Global Structural Information\" (WWW 2015).",
+                "homepage": "https://karateclub.readthedocs.io/",
                 "id": 185191179,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-06T21:12:54Z",
+                "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "GraRep",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "aane",
+                  "asne",
+                  "deep-learning",
+                  "deepwalk",
+                  "embedding",
+                  "gensim",
+                  "graph-embedding",
+                  "graph2vec",
+                  "grarep",
+                  "matrix-factorization",
+                  "network-embedding",
+                  "nmf",
+                  "node-embedding",
+                  "node2vec",
+                  "role2vec",
+                  "singular-value-decomposition",
+                  "svd",
+                  "tadw",
+                  "walklets",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -2386,12 +4052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code of GraRep",
+                "homepage": null,
                 "id": 39484989,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2018-02-22T07:39:44Z",
+                "open_issues": 2,
                 "owner": "ShelsonCao",
                 "repo": "GraRep",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             },
@@ -2402,12 +4073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 85837974,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2017-03-22T16:59:24Z",
+                "open_issues": 1,
                 "owner": "xgfs",
                 "repo": "GraRep.jl",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2425,12 +4101,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE",
+                "homepage": null,
                 "id": 58916964,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-11-03T06:53:02Z",
+                "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1420
+                "stars": 1420,
+                "topics": [
+                  "knowledge-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2448,12 +4131,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network Representation Learning with Rich Text Information (IJCAI 2015)",
+                "homepage": null,
                 "id": 60680811,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2017-04-28T15:39:47Z",
+                "open_issues": 4,
                 "owner": "thunlp",
                 "repo": "TADW",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "network-embedding"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2471,12 +4161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepWalk - Deep Learning for Graphs",
+                "homepage": "http://www.perozzi.net/projects/deepwalk/",
                 "id": 23246978,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-14T23:22:41Z",
+                "open_issues": 46,
                 "owner": "phanein",
                 "repo": "deepwalk",
-                "stars": 2759
+                "stars": 2759,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2494,12 +4189,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 90606928,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-05T22:04:24Z",
+                "open_issues": 14,
                 "owner": "palash1992",
                 "repo": "GEM",
-                "stars": 1288
+                "stars": 1288,
+                "topics": [
+                  "graph-embedding",
+                  "graph-embeddings",
+                  "link-prediction",
+                  "network-embedding",
+                  "network-visualization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2517,12 +4223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep network embedding for graph representation learning in signed networks",
+                "homepage": null,
                 "id": 187606015,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-07-08T13:08:42Z",
+                "open_issues": 0,
                 "owner": "shenxiaocam",
                 "repo": "Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
             }
@@ -2541,12 +4252,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial: Graph Neural Networks for Natural Language Processing at EMNLP 2019 and CODS-COMAD 2020",
+            "homepage": null,
             "id": 211071855,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-24T23:20:19Z",
+            "open_issues": 2,
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 787
+            "stars": 787,
+            "topics": [
+              "deep-learning",
+              "emnlp2019",
+              "graph-convolutional-networks",
+              "pytorch",
+              "tensorflow",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2557,12 +4280,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMORe: Modularize Graph Embedding for Recommendation",
+            "homepage": null,
             "id": 74262590,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-10-07T10:27:05Z",
+            "open_issues": 11,
             "owner": "cnclabs",
             "repo": "smore",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "knowledge-graph",
+              "matrix-factorization",
+              "network-embedding",
+              "representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         }
@@ -2579,12 +4312,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2595,12 +4354,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of community detection research papers with implementations. ",
+            "homepage": null,
             "id": 152444880,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-12-20T17:06:00Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "bigclam",
+              "clustering",
+              "community-detection",
+              "data-science",
+              "deep-learning",
+              "deepwalk",
+              "dimensionality-reduction",
+              "embedding",
+              "factorization",
+              "graph-clustering",
+              "igraph",
+              "machine-learning",
+              "matrix-factorization",
+              "network-analysis",
+              "network-clustering",
+              "network-science",
+              "networkx",
+              "node2vec",
+              "social-network",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2611,12 +4396,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome embedding models tutorials, projects and communities.",
+            "homepage": null,
             "id": 75587993,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-04-07T22:56:01Z",
+            "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1852
+            "stars": 1852,
+            "topics": [
+              "awesome",
+              "embedding-models",
+              "embeddings",
+              "machine-learning",
+              "natural-language-processing",
+              "papers",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2627,12 +4425,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read papers on network representation learning (NRL) / network embedding (NE)",
+            "homepage": null,
             "id": 91412787,
             "language": "TeX",
+            "license": null,
             "last_commit": "2020-08-03T10:53:46Z",
+            "open_issues": 0,
             "owner": "thunlp",
             "repo": "NRLPapers",
-            "stars": 2514
+            "stars": 2514,
+            "topics": [
+              "network-embedding",
+              "paper-list"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2643,12 +4449,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)",
+            "homepage": null,
             "id": 120101597,
             "language": "TeX",
+            "license": null,
             "last_commit": "2021-08-29T07:30:25Z",
+            "open_issues": 2,
             "owner": "thunlp",
             "repo": "KRLPapers",
-            "stars": 1523
+            "stars": 1523,
+            "topics": [
+              "knowledge-embedding",
+              "paper-list"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2659,12 +4473,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Embedding Survey and Resources",
+            "homepage": null,
             "id": 81979248,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-02-14T19:48:27Z",
+            "open_issues": 1,
             "owner": "nate-russell",
             "repo": "Network-Embedding-Resources",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "data-mining",
+              "embeddings",
+              "machine-learning",
+              "network-analysis",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2675,12 +4500,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome embedding models tutorials, projects and communities.",
+            "homepage": null,
             "id": 75587993,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-04-07T22:56:01Z",
+            "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1852
+            "stars": 1852,
+            "topics": [
+              "awesome",
+              "embedding-models",
+              "embeddings",
+              "machine-learning",
+              "natural-language-processing",
+              "papers",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2691,12 +4529,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of 2vec-type embedding models",
+            "homepage": null,
             "id": 59341837,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-08T11:47:32Z",
+            "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 933
+            "stars": 933,
+            "topics": [
+              "awesome",
+              "embeddings",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2707,12 +4554,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read papers on graph neural networks (GNN)",
+            "homepage": null,
             "id": 162940724,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-20T03:33:14Z",
+            "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16832
+            "stars": 16832,
+            "topics": [
+              "gnn",
+              "paper-list"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2723,12 +4578,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive collection of recent papers on graph deep learning",
+            "homepage": null,
             "id": 192863535,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-20T23:21:04Z",
+            "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3103
+            "stars": 3103,
+            "topics": [
+              "arxiv",
+              "deep-learning",
+              "machine-learning",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         },
@@ -2739,12 +4604,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+            "homepage": null,
             "id": 140943444,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-18T12:10:08Z",
+            "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4801
+            "stars": 4801,
+            "topics": [
+              "attention-mechanism",
+              "classification-algorithm",
+              "deep-graph-kernels",
+              "deepwalk",
+              "graph-attention-model",
+              "graph-attention-networks",
+              "graph-classification",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-kernel",
+              "graph-kernels",
+              "graph-representation-learning",
+              "graph2vec",
+              "kernel-methods",
+              "netlsd",
+              "network-embedding",
+              "node-embedding",
+              "node2vec",
+              "structural-attention",
+              "weisfeiler-lehman"
+            ]
           },
           "first_seen": "2026-08-28T22:12:56.693Z"
         }
@@ -2753,15 +4644,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:12:56.693Z",
+    "last_updated": "2026-08-29T04:24:37.367Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of network embedding techniques.",
+      "homepage": null,
       "id": 74880098,
       "language": null,
+      "license": null,
       "last_commit": "2020-12-08T09:34:45Z",
+      "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2627
+      "stars": 2627,
+      "topics": [
+        "graph-embeddings",
+        "knowledge-graph",
+        "network-embedding",
+        "representation-learning"
+      ]
     },
     "original_repository_sha": "f6aa25a51d9d892cc79018881f89a06b02a522ba",
     "enhanced_repository": "enhansome/enhansome-network-embedding",
