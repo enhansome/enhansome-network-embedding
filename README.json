@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-24T20:53:29Z",
-                "open_issues": 1317,
+                "open_issues": 1318,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24047,
+                "stars": 24049,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38660,
+                "stars": 38667,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1756,
+                "stars": 1755,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3953,
+                "stars": 3954,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3719,
+                "stars": 3720,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450,
+            "stars": 2449,
             "topics": [
               "bigclam",
               "clustering",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:05:59.076Z",
+    "last_updated": "2026-09-01T16:31:09.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
