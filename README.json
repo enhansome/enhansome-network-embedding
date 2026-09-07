@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1325,
+                "open_issues": 1326,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24067,
+                "stars": 24068,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38695,
+                "stars": 38707,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2364,7 +2364,7 @@
                 "open_issues": 8,
                 "owner": "clhchtcjj",
                 "repo": "BiNE",
-                "stars": 228,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -2695,7 +2695,7 @@
                 "open_issues": 6,
                 "owner": "xiaohan2012",
                 "repo": "sdne-keras",
-                "stars": 92,
+                "stars": 91,
                 "topics": [
                   "autoencoder",
                   "keras",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3723,
+                "stars": 3724,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2738,
+                "stars": 2739,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4198,7 +4198,7 @@
                 "open_issues": 14,
                 "owner": "palash1992",
                 "repo": "GEM",
-                "stars": 1287,
+                "stars": 1286,
                 "topics": [
                   "graph-embedding",
                   "graph-embeddings",
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1851,
+            "stars": 1852,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1851,
+            "stars": 1852,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16836,
+            "stars": 16839,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:23:12.424Z",
+    "last_updated": "2026-09-07T17:42:31.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
