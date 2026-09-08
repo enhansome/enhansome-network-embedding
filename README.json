@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1326,
+                "open_issues": 1327,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24068,
+                "stars": 24070,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -941,7 +941,7 @@
                 "open_issues": 2,
                 "owner": "ibalazevic",
                 "repo": "TuckER",
-                "stars": 369,
+                "stars": 370,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:12:34Z",
+                "last_commit": "2026-09-08T09:22:17Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38707,
+                "stars": 38712,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3550,
+                "stars": 3549,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3724,
+                "stars": 3725,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7401,
+                "stars": 7402,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2739,
+                "stars": 2740,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4170,7 +4170,7 @@
                 "open_issues": 46,
                 "owner": "phanein",
                 "repo": "deepwalk",
-                "stars": 2759,
+                "stars": 2758,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16839,
+            "stars": 16838,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:42:31.603Z",
+    "last_updated": "2026-09-08T16:32:59.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2627,
+      "stars": 2628,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
