@@ -484,7 +484,7 @@
                 "open_issues": 18,
                 "owner": "claws-lab",
                 "repo": "jodie",
-                "stars": 422,
+                "stars": 423,
                 "topics": [
                   "dynamic-networks",
                   "embedding-trajectories",
@@ -907,7 +907,7 @@
                 "open_issues": 1330,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24071,
+                "stars": 24073,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -997,7 +997,7 @@
                 "open_issues": 2,
                 "owner": "benedekrozemberczki",
                 "repo": "GraphWaveletNeuralNetwork",
-                "stars": 607,
+                "stars": 608,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:18:29Z",
-                "open_issues": 1990,
+                "last_commit": "2026-09-10T00:21:25Z",
+                "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38718,
+                "stars": 38722,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3549,
+                "stars": 3550,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7401,
+                "stars": 7400,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3607,7 +3607,7 @@
                 "open_issues": 20,
                 "owner": "mdeff",
                 "repo": "cnn_graph",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -4107,10 +4107,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2022-11-03T06:53:02Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1420,
+                "stars": 1421,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3102,
+            "stars": 3103,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:31:19.858Z",
+    "last_updated": "2026-09-10T16:18:07.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
