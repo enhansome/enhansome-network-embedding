@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1330,
+                "open_issues": 1332,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24073,
+                "stars": 24074,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38722,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:18:07.227Z",
+    "last_updated": "2026-09-11T16:22:07.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
