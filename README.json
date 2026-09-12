@@ -907,7 +907,7 @@
                 "open_issues": 1332,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24074,
+                "stars": 24075,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38737,
+                "stars": 38741,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3726,
+                "stars": 3727,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4261,7 +4261,7 @@
             "open_issues": 2,
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "deep-learning",
               "emnlp2019",
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2449,
+            "stars": 2450,
             "topics": [
               "bigclam",
               "clustering",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16838,
+            "stars": 16837,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:22:07.615Z",
+    "last_updated": "2026-09-12T15:27:18.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
