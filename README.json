@@ -448,7 +448,7 @@
                 "open_issues": 30,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2237,
+                "stars": 2238,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1336,
+                "open_issues": 1337,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24084,
+                "stars": 24085,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:14:49Z",
+                "last_commit": "2026-09-16T19:46:42Z",
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38774,
+                "stars": 38783,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7402,
+                "stars": 7403,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1854,
+            "stars": 1855,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4458,7 +4458,7 @@
             "open_issues": 2,
             "owner": "thunlp",
             "repo": "KRLPapers",
-            "stars": 1523,
+            "stars": 1524,
             "topics": [
               "knowledge-embedding",
               "paper-list"
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1854,
+            "stars": 1855,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T16:44:15.983Z",
+    "last_updated": "2026-09-17T16:51:06.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",

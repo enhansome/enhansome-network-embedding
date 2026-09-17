@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,654 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,065 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -52,7 +52,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * GEMSEC: Graph Embedding with Self Clustering, ASONAM 2019
   * [\[Paper\]](https://arxiv.org/abs/1802.03997)
 * **AmpliGraph**
-  * [\[code\]](https://github.com/Accenture/AmpliGraph) ⭐ 2,237 | 🐛 30 | 🌐 Python | 📅 2026-08-06
+  * [\[code\]](https://github.com/Accenture/AmpliGraph) ⭐ 2,238 | 🐛 30 | 🌐 Python | 📅 2026-08-06
   * Library for learning knowledge graph embeddings with TensorFlow
   * [\[Project\]](http://docs.ampligraph.org)
 * **jodie**
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,084 | 🐛 1,336 | 🌐 Python | 📅 2026-09-01
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,085 | 🐛 1,337 | 🌐 Python | 📅 2026-09-01
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,7 +120,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,774 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,783 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
@@ -314,7 +314,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
   * [\[paper\]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [\[project website\]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 * **GCN**
-  * [\[arxiv\]](https://arxiv.org/abs/1609.02907)  [\[Python Tensorflow\]](https://github.com/tkipf/gcn) ⭐ 7,402 | 🐛 124 | 🌐 Python | 📅 2023-04-14
+  * [\[arxiv\]](https://arxiv.org/abs/1609.02907)  [\[Python Tensorflow\]](https://github.com/tkipf/gcn) ⭐ 7,403 | 🐛 124 | 🌐 Python | 📅 2023-04-14
   * Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 * **GAE**
   * [\[arxiv\]](https://arxiv.org/abs/1611.07308) [\[Python Tensorflow\]](https://github.com/tkipf/gae) ⭐ 1,743 | 🐛 49 | 🌐 Python | 📅 2020-01-03
@@ -369,7 +369,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Julia\]](https://github.com/xgfs/GraRep.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2017-03-22
   * [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
 * **KB2E**
-  * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [\[C++\]](https://github.com/thunlp/KB2E) ⭐ 1,421 | 🐛 20 | 🌐 C++ | 📅 2022-11-03  [\[faster version\]](https://github.com/thunlp/Fast-TransX) ⭐ 405 | 🐛 4 | 🌐 C++ | 📅 2022-11-03
+  * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [\[C++\]](https://github.com/thunlp/KB2E) ⭐ 1,422 | 🐛 20 | 🌐 C++ | 📅 2022-11-03  [\[faster version\]](https://github.com/thunlp/Fast-TransX) ⭐ 405 | 🐛 4 | 🌐 C++ | 📅 2022-11-03
   * [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
 * **TADW**
   * [\[paper\]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [\[Matlab\]](https://github.com/thunlp/tadw) ⭐ 48 | 🐛 4 | 🌐 Matlab | 📅 2017-04-28 [\[Python\]](https://github.com/benedekrozemberczki/TADW) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2022-08-14
@@ -464,15 +464,15 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,854 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,855 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
 [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers) ⭐ 2,513 | 🐛 0 | 🌐 TeX | 📅 2020-08-03
 
-[Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers) ⭐ 1,523 | 🐛 2 | 🌐 TeX | 📅 2021-08-29
+[Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers) ⭐ 1,524 | 🐛 2 | 🌐 TeX | 📅 2021-08-29
 
 [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources) ⭐ 41 | 🐛 1 | 📅 2017-02-14
 
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,854 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
+[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,855 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 933 | 🐛 0 | 📅 2022-12-08
 
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
