@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3453,
+                "stars": 3454,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1337,
+                "open_issues": 1339,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24085,
+                "stars": 24091,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38783,
+                "stars": 38787,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3550,
+                "stars": 3551,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1530,7 +1530,7 @@
                 "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "deep-learning",
                   "deepwalk",
@@ -1572,7 +1572,7 @@
                 "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "SGCN",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "deep-learning",
                   "deepwalk",
@@ -2509,7 +2509,7 @@
                 "open_issues": 7,
                 "owner": "HazyResearch",
                 "repo": "hyperbolics",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3811,7 +3811,7 @@
                 "open_issues": 19,
                 "owner": "kimiyoung",
                 "repo": "planetoid",
-                "stars": 962,
+                "stars": 963,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2450,
+            "stars": 2451,
             "topics": [
               "bigclam",
               "clustering",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16841,
+            "stars": 16842,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T16:51:06.911Z",
+    "last_updated": "2026-09-18T16:18:49.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",

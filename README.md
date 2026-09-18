@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,065 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,402 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,085 | 🐛 1,337 | 🌐 Python | 📅 2026-09-01
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,091 | 🐛 1,339 | 🌐 Python | 📅 2026-09-01
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,13 +120,13 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,783 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,787 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
   * [\[Python\]](http://sami.haija.org/graph/context)
 * **GAT**
-  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,550 | 🐛 33 | 🌐 Python | 📅 2022-04-09
+  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,551 | 🐛 33 | 🌐 Python | 📅 2022-04-09
   * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,122 | 🐛 47 | 🌐 Python | 📅 2023-07-06
   * Graph Attention Networks, ICLR'18
   * [\[paper\]](https://arxiv.org/pdf/1710.10903.pdf)
@@ -137,8 +137,8 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[C++\]](https://github.com/daokunzhang/SINE) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2020-06-29
   * SINE: Scalable Incomplete Network Embedding, ICDM'18
 * **SGCN**
-  * [\[paper\]](https://github.com/benedekrozemberczki/SGCN/blob/master/sgcn.pdf) ⭐ 277 | 🐛 1 | 🌐 Python | 📅 2023-03-18
-  * [\[Python\]](https://github.com/benedekrozemberczki/SGCN) ⭐ 277 | 🐛 1 | 🌐 Python | 📅 2023-03-18
+  * [\[paper\]](https://github.com/benedekrozemberczki/SGCN/blob/master/sgcn.pdf) ⭐ 278 | 🐛 1 | 🌐 Python | 📅 2023-03-18
+  * [\[Python\]](https://github.com/benedekrozemberczki/SGCN) ⭐ 278 | 🐛 1 | 🌐 Python | 📅 2023-03-18
   * Signed Graph Convolutional Network, ICDM'18
 * **TENE**
   * [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
@@ -220,7 +220,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Paper\]](https://arxiv.org/pdf/1703.08100.pdf) (SDM 2018)
   * [\[Python\]](http://jiongqianliang.com/SEANO/)
 * **Hyperbolics**
-  * [\[Python\]](https://github.com/HazyResearch/hyperbolics) ⭐ 395 | 🐛 7 | 🌐 Python | 📅 2023-07-06
+  * [\[Python\]](https://github.com/HazyResearch/hyperbolics) ⭐ 396 | 🐛 7 | 🌐 Python | 📅 2023-07-06
   * Representation Tradeoffs for Hyperbolic Embeddings
   * [\[Arxiv\]](https://arxiv.org/abs/1804.03329)
 * **DGCNN**
@@ -347,7 +347,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [\[Java\]](https://github.com/thunlp/MMDW) ⭐ 73 | 🐛 1 | 🌐 Java | 📅 2017-05-09
   * Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 * **planetoid**
-  * [\[arxiv\]](https://arxiv.org/abs/1603.08861) [\[Python\]](https://github.com/kimiyoung/planetoid) ⭐ 962 | 🐛 19 | 🌐 Python | 📅 2020-03-05
+  * [\[arxiv\]](https://arxiv.org/abs/1603.08861) [\[Python\]](https://github.com/kimiyoung/planetoid) ⭐ 963 | 🐛 19 | 🌐 Python | 📅 2020-03-05
   * Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 * **graph2vec**
   * [\[Python gensim\]](https://github.com/benedekrozemberczki/graph2vec) ⭐ 934 | 🐛 1 | 🌐 Python | 📅 2022-11-06 [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,286 | 🐛 12 | 🌐 Python | 📅 2024-07-17
@@ -369,7 +369,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Julia\]](https://github.com/xgfs/GraRep.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2017-03-22
   * [Grarep: Learning graph representations with global structural information](http://dl.acm.org/citation.cfm?id=2806512), CIKM'15
 * **KB2E**
-  * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [\[C++\]](https://github.com/thunlp/KB2E) ⭐ 1,422 | 🐛 20 | 🌐 C++ | 📅 2022-11-03  [\[faster version\]](https://github.com/thunlp/Fast-TransX) ⭐ 405 | 🐛 4 | 🌐 C++ | 📅 2022-11-03
+  * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2015_transr.pdf) [\[C++\]](https://github.com/thunlp/KB2E) ⭐ 1,423 | 🐛 20 | 🌐 C++ | 📅 2022-11-03  [\[faster version\]](https://github.com/thunlp/Fast-TransX) ⭐ 405 | 🐛 4 | 🌐 C++ | 📅 2022-11-03
   * [Learning Entity and Relation Embeddings for Knowledge Graph Completion](http://dl.acm.org/citation.cfm?id=2886624), AAAI'15
 * **TADW**
   * [\[paper\]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf) [\[Matlab\]](https://github.com/thunlp/tadw) ⭐ 48 | 🐛 4 | 🌐 Matlab | 📅 2017-04-28 [\[Python\]](https://github.com/benedekrozemberczki/TADW) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2022-08-14
@@ -462,7 +462,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,801 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 
-[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20
+[awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,451 | 🐛 0 | 🌐 Python | 📅 2025-12-20
 
 [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,855 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
@@ -476,7 +476,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 933 | 🐛 0 | 📅 2022-12-08
 
-[Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,841 | 🐛 15 | 📅 2023-12-20
+[Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,842 | 🐛 15 | 📅 2023-12-20
 
 [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) ⭐ 3,103 | 🐛 5 | 📅 2020-12-20
 
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
