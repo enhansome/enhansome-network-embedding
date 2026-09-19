@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1903,
+                "stars": 1904,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1339,
+                "open_issues": 1340,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24091,
+                "stars": 24093,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1236,10 +1236,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:46:42Z",
-                "open_issues": 1994,
+                "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38787,
+                "stars": 38794,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3551,
+                "stars": 3552,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16842,
+            "stars": 16843,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:18:49.137Z",
+    "last_updated": "2026-09-19T15:48:37.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
