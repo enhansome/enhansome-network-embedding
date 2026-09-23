@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1907,
+                "stars": 1908,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -448,7 +448,7 @@
                 "open_issues": 30,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1345,
+                "open_issues": 1346,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24096,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -941,7 +941,7 @@
                 "open_issues": 2,
                 "owner": "ibalazevic",
                 "repo": "TuckER",
-                "stars": 370,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:46:37Z",
-                "open_issues": 1995,
+                "last_commit": "2026-09-23T12:02:29Z",
+                "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38813,
+                "stars": 38819,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3727,
+                "stars": 3728,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1423,
+                "stars": 1424,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16842,
+            "stars": 16843,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T16:49:02.723Z",
+    "last_updated": "2026-09-23T16:46:50.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
