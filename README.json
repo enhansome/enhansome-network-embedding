@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3454,
+                "stars": 3453,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1346,
+                "open_issues": 1347,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24097,
+                "stars": 24098,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38825,
+                "stars": 38833,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4289,7 +4289,7 @@
             "open_issues": 11,
             "owner": "cnclabs",
             "repo": "smore",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "knowledge-graph",
               "matrix-factorization",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16843,
+            "stars": 16844,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:02:22.546Z",
+    "last_updated": "2026-09-25T17:03:28.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
