@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1347,
+                "open_issues": 1348,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24099,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38833,
+                "stars": 38832,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3921,7 +3921,7 @@
                 "open_issues": 33,
                 "owner": "tangjianpku",
                 "repo": "LINE",
-                "stars": 1054,
+                "stars": 1053,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4434,7 +4434,7 @@
             "open_issues": 0,
             "owner": "thunlp",
             "repo": "NRLPapers",
-            "stars": 2512,
+            "stars": 2511,
             "topics": [
               "network-embedding",
               "paper-list"
@@ -4538,7 +4538,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "awesome",
               "embeddings",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16844,
+            "stars": 16843,
             "topics": [
               "gnn",
               "paper-list"
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3103,
+            "stars": 3102,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:03:28.098Z",
+    "last_updated": "2026-09-26T16:16:42.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2628,
+      "stars": 2629,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
