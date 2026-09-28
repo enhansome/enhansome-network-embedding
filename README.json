@@ -871,7 +871,7 @@
                 "open_issues": 7,
                 "owner": "GemsLab",
                 "repo": "REGAL",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "graph-matching",
                   "matrix-factorization",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1349,
+                "open_issues": 1352,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24097,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1109,7 +1109,7 @@
                 "open_issues": 0,
                 "owner": "gasteigerjo",
                 "repo": "ppnp",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "deep-learning",
                   "gcn",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38831,
+                "stars": 38839,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7404,
+                "stars": 7406,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3839,7 +3839,7 @@
                 "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "graph2vec",
-                "stars": 935,
+                "stars": 934,
                 "topics": [
                   "deepwalk",
                   "diff2vec",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16845,
+            "stars": 16844,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T16:53:00.910Z",
+    "last_updated": "2026-09-28T19:36:08.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
