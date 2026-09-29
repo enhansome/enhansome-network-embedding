@@ -903,11 +903,11 @@
                 "id": 106024057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1352,
+                "last_commit": "2026-09-29T17:21:23Z",
+                "open_issues": 1353,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24097,
+                "stars": 24100,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38839,
+                "stars": 38849,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4538,7 +4538,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 934,
+            "stars": 935,
             "topics": [
               "awesome",
               "embeddings",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:36:08.008Z",
+    "last_updated": "2026-09-29T18:01:39.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2629,
+      "stars": 2630,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
