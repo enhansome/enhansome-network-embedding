@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:21:23Z",
-                "open_issues": 1353,
+                "open_issues": 1355,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24100,
+                "stars": 24102,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38849,
+                "stars": 38855,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3553,
+                "stars": 3554,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3122,
+                "stars": 3123,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3607,7 +3607,7 @@
                 "open_issues": 20,
                 "owner": "mdeff",
                 "repo": "cnn_graph",
-                "stars": 1367,
+                "stars": 1366,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -4261,7 +4261,7 @@
             "open_issues": 2,
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "deep-learning",
               "emnlp2019",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:01:39.230Z",
+    "last_updated": "2026-09-30T17:57:37.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",

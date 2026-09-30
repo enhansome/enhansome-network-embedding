@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,353 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,793 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,100 | 🐛 1,353 | 🌐 Python | 📅 2026-09-29
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,102 | 🐛 1,355 | 🌐 Python | 📅 2026-09-29
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,14 +120,14 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,849 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,855 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
   * [\[Python\]](http://sami.haija.org/graph/context)
 * **GAT**
-  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,553 | 🐛 33 | 🌐 Python | 📅 2022-04-09
-  * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,122 | 🐛 47 | 🌐 Python | 📅 2023-07-06
+  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,554 | 🐛 33 | 🌐 Python | 📅 2022-04-09
+  * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,123 | 🐛 47 | 🌐 Python | 📅 2023-07-06
   * Graph Attention Networks, ICLR'18
   * [\[paper\]](https://arxiv.org/pdf/1710.10903.pdf)
 * **SINE**
@@ -326,7 +326,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python Tensorflow\]](https://github.com/thunlp/TransNet) ⭐ 101 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-03-25
   * TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
 * **cnn\_graph**
-  * [\[Python\]](https://github.com/mdeff/cnn_graph) ⭐ 1,367 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2020-06-13
+  * [\[Python\]](https://github.com/mdeff/cnn_graph) ⭐ 1,366 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2020-06-13
   * Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering, NIPS'16
 * **ConvE**
   * [\[source\]](https://github.com/TimDettmers/ConvE) ⭐ 691 | 🐛 24 | 🌐 Python | 📅 2024-03-29
@@ -450,7 +450,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 # Conference & Workshop
 
-[Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) ⭐ 788 | 🐛 2 | 🌐 Python | 📅 2023-03-24, **EMNLP'19**
+[Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) ⭐ 789 | 🐛 2 | 🌐 Python | 📅 2023-03-24, **EMNLP'19**
 
 [SMORe : Modularize Graph Embedding for Recommendation](https://github.com/cnclabs/smore) ⭐ 374 | 🐛 11 | 🌐 C++ | 📅 2022-10-07, **RecSys'19**
 
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
