@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "snap-stanford/GraphGym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -81,7 +81,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/FEATHER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -130,7 +130,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "librahu/HeGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,7 +158,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -256,7 +256,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -305,7 +305,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "zhengwang100/RECT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/GEMSEC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "Accenture/AmpliGraph",
-              "description": null,
+              "description": "Accenture/AmpliGraph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "claws-lab/jodie",
-              "description": null,
+              "description": "claws-lab/jodie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/PyTorch-BigGraph",
-              "description": null,
+              "description": "facebookresearch/PyTorch-BigGraph",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -536,7 +536,7 @@
             {
               "node_type": "item",
               "title": "zhenv5/atp",
-              "description": null,
+              "description": "zhenv5/atp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -572,7 +572,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/MUSAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/SEAL-CI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -712,7 +712,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/MixHop-and-N-GCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -761,7 +761,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/CapsGNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -809,7 +809,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/Splitter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -858,7 +858,7 @@
             {
               "node_type": "item",
               "title": "GemsLab/REGAL",
-              "description": null,
+              "description": "GemsLab/REGAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -894,7 +894,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "pyg-team/pytorch_geometric",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
                 "open_issues": 1358,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24103,
+                "stars": 24104,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "ibalazevic/TuckER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "ibalazevic/HypER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -984,7 +984,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/GraphWaveletNeuralNetwork",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1026,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "[Python TensorFlow]",
-              "description": null,
+              "description": "Eilene/GWNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/APPNP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,7 +1096,7 @@
             {
               "node_type": "item",
               "title": "[Python TensorFlow]",
-              "description": null,
+              "description": "gasteigerjo/ppnp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1135,7 +1135,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,7 +1177,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/role2vec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1226,7 +1226,7 @@
             {
               "node_type": "item",
               "title": "[Python TensorFlow]",
-              "description": null,
+              "description": "google-research/google-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1239,7 +1239,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38861,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1251,7 +1251,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/AttentionWalk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1300,7 +1300,7 @@
             {
               "node_type": "item",
               "title": "[Python TensorFlow]",
-              "description": null,
+              "description": "PetarV-/GAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1328,7 +1328,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "diegoantognini/pyGAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1363,7 +1363,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1405,7 +1405,7 @@
             {
               "node_type": "item",
               "title": "benedekrozemberczki/SINE",
-              "description": null,
+              "description": "benedekrozemberczki/SINE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1447,7 +1447,7 @@
             {
               "node_type": "item",
               "title": "[Python PyTorch]",
-              "description": null,
+              "description": "benedekrozemberczki/SINE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1489,7 +1489,7 @@
             {
               "node_type": "item",
               "title": "[C++]",
-              "description": null,
+              "description": "daokunzhang/SINE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1517,7 +1517,7 @@
             {
               "node_type": "item",
               "title": "benedekrozemberczki/SGCN",
-              "description": null,
+              "description": "benedekrozemberczki/SGCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1559,7 +1559,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/SGCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1608,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1650,7 +1650,7 @@
             {
               "node_type": "item",
               "title": "benedekrozemberczki/TENE",
-              "description": null,
+              "description": "benedekrozemberczki/TENE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1692,7 +1692,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/TENE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1741,7 +1741,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1783,7 +1783,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/DANMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1825,7 +1825,7 @@
             {
               "node_type": "item",
               "title": "[Matlab]",
-              "description": null,
+              "description": "smartyfh/DANMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1859,7 +1859,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1901,7 +1901,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/BANE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1943,7 +1943,7 @@
             {
               "node_type": "item",
               "title": "[Matlab]",
-              "description": null,
+              "description": "ICDM2018-BANE/BANE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,7 +1971,7 @@
             {
               "node_type": "item",
               "title": "liqimai/gcn",
-              "description": null,
+              "description": "liqimai/gcn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1999,7 +1999,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "shudan/PCTADW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2027,7 +2027,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "HongyangGao/LGCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2058,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "ysyushi/aspem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2086,7 +2086,7 @@
             {
               "node_type": "item",
               "title": "[Python Karateclub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2128,7 +2128,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/walklets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2177,7 +2177,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "snash4/GAT2VEC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2211,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "[Python Karateclub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2253,7 +2253,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/FSCNMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2295,7 +2295,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "sambaranban/FSCNMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2323,7 +2323,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "nd7141/AWE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2351,7 +2351,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "clhchtcjj/BiNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2379,7 +2379,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2428,7 +2428,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "xgfs/verse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2463,7 +2463,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "dawnranger/pytorch-AGNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2496,7 +2496,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "HazyResearch/hyperbolics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2552,7 +2552,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "Hanjun-Dai/pytorch_structure2vec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2580,7 +2580,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "mims-harvard/decagon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2615,7 +2615,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "tadpole/DHNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2647,7 +2647,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "mims-harvard/ohmnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2682,7 +2682,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "xiaohan2012/sdne-keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2716,7 +2716,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "supriya-gdptl/STWalk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2748,7 +2748,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "vuptran/graph-representation-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2784,7 +2784,7 @@
             {
               "node_type": "item",
               "title": "[Matlab]",
-              "description": null,
+              "description": "zhengwang100/RSDNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2814,7 +2814,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "matenure/FastGCN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2847,7 +2847,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2889,7 +2889,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/diff2vec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2966,7 +2966,7 @@
             {
               "node_type": "item",
               "title": "ntumslab/PRUNE",
-              "description": null,
+              "description": "ntumslab/PRUNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2994,7 +2994,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "liziliao/ASNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3015,7 +3015,7 @@
             {
               "node_type": "item",
               "title": "[Fast Python]",
-              "description": null,
+              "description": "benedekrozemberczki/ASNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3092,7 +3092,7 @@
             {
               "node_type": "item",
               "title": "facebookresearch/StarSpace",
-              "description": null,
+              "description": "facebookresearch/StarSpace",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3120,7 +3120,7 @@
             {
               "node_type": "item",
               "title": "cnclabs/proNet-core",
-              "description": "[code]",
+              "description": "cnclabs/proNet-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3148,7 +3148,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "leoribeiro/struc2vec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3179,7 +3179,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "andompesta/ComE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3207,7 +3207,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3249,7 +3249,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/BoostedFactorization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3298,7 +3298,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3340,7 +3340,7 @@
             {
               "node_type": "item",
               "title": "[Python TensorFlow]",
-              "description": null,
+              "description": "benedekrozemberczki/M-NMF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3417,7 +3417,7 @@
             {
               "node_type": "item",
               "title": "cnclabs/ICE",
-              "description": "[code]",
+              "description": "cnclabs/ICE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3450,7 +3450,7 @@
             {
               "node_type": "item",
               "title": "chentingpc/GuidedHeteEmbedding",
-              "description": "[code]",
+              "description": "chentingpc/GuidedHeteEmbedding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3564,7 +3564,7 @@
             {
               "node_type": "item",
               "title": "[Python Tensorflow]",
-              "description": null,
+              "description": "thunlp/TransNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3594,7 +3594,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "mdeff/cnn_graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3628,7 +3628,7 @@
             {
               "node_type": "item",
               "title": "TimDettmers/ConvE",
-              "description": null,
+              "description": "TimDettmers/ConvE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3875,7 +3875,7 @@
             {
               "node_type": "item",
               "title": "lqhl/PowerWalk",
-              "description": null,
+              "description": "lqhl/PowerWalk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3936,7 +3936,7 @@
             {
               "node_type": "item",
               "title": "[C++]",
-              "description": null,
+              "description": "mnqu/PTE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3964,7 +3964,7 @@
             {
               "node_type": "item",
               "title": "[Python KarateClub]",
-              "description": null,
+              "description": "benedekrozemberczki/karateclub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4006,7 +4006,7 @@
             {
               "node_type": "item",
               "title": "[Python]",
-              "description": null,
+              "description": "benedekrozemberczki/GraRep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4048,7 +4048,7 @@
             {
               "node_type": "item",
               "title": "[Matlab]",
-              "description": null,
+              "description": "ShelsonCao/GraRep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4069,7 +4069,7 @@
             {
               "node_type": "item",
               "title": "[Julia]",
-              "description": null,
+              "description": "xgfs/GraRep.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4219,7 +4219,7 @@
             {
               "node_type": "item",
               "title": "shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
-              "description": "[Code]",
+              "description": "shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4308,7 +4308,7 @@
         {
           "node_type": "item",
           "title": "awesome-graph-classification",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-graph-classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4350,7 +4350,7 @@
         {
           "node_type": "item",
           "title": "awesome-community-detection",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-community-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4392,7 +4392,7 @@
         {
           "node_type": "item",
           "title": "awesome-embedding-models",
-          "description": null,
+          "description": "Hironsan/awesome-embedding-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4421,7 +4421,7 @@
         {
           "node_type": "item",
           "title": "Must-read papers on network representation learning (NRL) / network embedding (NE)",
-          "description": null,
+          "description": "thunlp/NRLPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4445,7 +4445,7 @@
         {
           "node_type": "item",
           "title": "Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)",
-          "description": null,
+          "description": "thunlp/KRLPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4469,7 +4469,7 @@
         {
           "node_type": "item",
           "title": "Network Embedding Resources",
-          "description": null,
+          "description": "nate-russell/Network-Embedding-Resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4496,7 +4496,7 @@
         {
           "node_type": "item",
           "title": "awesome-embedding-models",
-          "description": null,
+          "description": "Hironsan/awesome-embedding-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4525,7 +4525,7 @@
         {
           "node_type": "item",
           "title": "2vec-type embedding models",
-          "description": null,
+          "description": "MaxwellRebo/awesome-2vec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4550,7 +4550,7 @@
         {
           "node_type": "item",
           "title": "Must-read papers on GNN",
-          "description": null,
+          "description": "thunlp/GNNPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4574,7 +4574,7 @@
         {
           "node_type": "item",
           "title": "LiteratureDL4Graph",
-          "description": null,
+          "description": "DeepGraphLearning/LiteratureDL4Graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4600,7 +4600,7 @@
         {
           "node_type": "item",
           "title": "awesome-graph-classification",
-          "description": null,
+          "description": "benedekrozemberczki/awesome-graph-classification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:49:07.394Z",
+    "last_updated": "2026-10-03T05:00:26.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
