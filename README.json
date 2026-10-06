@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1908,
+                "stars": 1909,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -484,7 +484,7 @@
                 "open_issues": 18,
                 "owner": "claws-lab",
                 "repo": "jodie",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "dynamic-networks",
                   "embedding-trajectories",
@@ -907,7 +907,7 @@
                 "open_issues": 1362,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24109,
+                "stars": 24110,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38874,
+                "stars": 38877,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3555,
+                "stars": 3556,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3728,
+                "stars": 3729,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7407,
+                "stars": 7408,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3725,7 +3725,7 @@
                 "open_issues": 8,
                 "owner": "mnick",
                 "repo": "holographic-embeddings",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4170,7 +4170,7 @@
                 "open_issues": 46,
                 "owner": "phanein",
                 "repo": "deepwalk",
-                "stars": 2757,
+                "stars": 2758,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:55.857Z",
+    "last_updated": "2026-10-06T18:17:09.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
