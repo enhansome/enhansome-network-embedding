@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -448,7 +448,7 @@
                 "open_issues": 30,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2242,
+                "stars": 2241,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -904,7 +904,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1362,
+                "open_issues": 1364,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24110,
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:03:49Z",
+                "last_commit": "2026-10-07T17:54:26Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38877,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1855,
+            "stars": 1856,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1855,
+            "stars": 1856,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4538,7 +4538,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 935,
+            "stars": 936,
             "topics": [
               "awesome",
               "embeddings",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:17:09.047Z",
+    "last_updated": "2026-10-07T18:50:29.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
