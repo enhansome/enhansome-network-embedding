@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3452,
+                "stars": 3453,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -774,7 +774,7 @@
                 "open_issues": 4,
                 "owner": "benedekrozemberczki",
                 "repo": "CapsGNN",
-                "stars": 1278,
+                "stars": 1279,
                 "topics": [
                   "capsgnn",
                   "capsule-network",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1368,
+                "open_issues": 1372,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24110,
+                "stars": 24112,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:22:43Z",
+                "last_commit": "2026-10-10T14:34:09Z",
                 "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38885,
+                "stars": 38886,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3555,
+                "stars": 3556,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1755,
+                "stars": 1756,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3953,
+                "stars": 3954,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7407,
+                "stars": 7408,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3921,7 +3921,7 @@
                 "open_issues": 33,
                 "owner": "tangjianpku",
                 "repo": "LINE",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4321,7 +4321,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4802,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4434,7 +4434,7 @@
             "open_issues": 0,
             "owner": "thunlp",
             "repo": "NRLPapers",
-            "stars": 2511,
+            "stars": 2512,
             "topics": [
               "network-embedding",
               "paper-list"
@@ -4458,7 +4458,7 @@
             "open_issues": 2,
             "owner": "thunlp",
             "repo": "KRLPapers",
-            "stars": 1525,
+            "stars": 1526,
             "topics": [
               "knowledge-embedding",
               "paper-list"
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16844,
+            "stars": 16843,
             "topics": [
               "gnn",
               "paper-list"
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3102,
+            "stars": 3103,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4613,7 +4613,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4802,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:18:13.226Z",
+    "last_updated": "2026-10-10T17:17:47.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2630,
+      "stars": 2631,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
