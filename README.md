@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,134 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,585 | 🐛 105 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,112 | 🐛 1,372 | 🌐 Python | 📅 2026-10-06
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,113 | 🐛 1,373 | 🌐 Python | 📅 2026-10-06
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,7 +120,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,886 | 🐛 1,998 | 🌐 Jupyter Notebook | 📅 2026-10-10
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,897 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-10
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
@@ -302,7 +302,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python TensorFlow\]](https://github.com/benedekrozemberczki/M-NMF) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Community Preserving Network Embedding, AAAI'17
 * **GraphSAGE**
-  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,729 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,051 | 🐛 20 | 🌐 Python | 📅 2020-05-11
+  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,730 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,051 | 🐛 20 | 🌐 Python | 📅 2020-05-11
   * Inductive Representation Learning on Large Graphs, NIPS'17
 * **ICE**
   * [\[demo\]](https://cnclabs.github.io/ICE/) [\[code\]](https://github.com/cnclabs/ICE) ⭐ 89 | 🐛 6 | 🌐 C++ | 📅 2017-11-25
@@ -314,7 +314,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * metapath2vec: Scalable Representation Learning for Heterogeneous Networks, KDD'17
   * [\[paper\]](https://www3.nd.edu/~dial/publications/dong2017metapath2vec.pdf) [\[project website\]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 * **GCN**
-  * [\[arxiv\]](https://arxiv.org/abs/1609.02907)  [\[Python Tensorflow\]](https://github.com/tkipf/gcn) ⭐ 7,408 | 🐛 124 | 🌐 Python | 📅 2023-04-14
+  * [\[arxiv\]](https://arxiv.org/abs/1609.02907)  [\[Python Tensorflow\]](https://github.com/tkipf/gcn) ⭐ 7,409 | 🐛 124 | 🌐 Python | 📅 2023-04-14
   * Semi-Supervised Classification with Graph Convolutional Networks, ICLR'17
 * **GAE**
   * [\[arxiv\]](https://arxiv.org/abs/1611.07308) [\[Python Tensorflow\]](https://github.com/tkipf/gae) ⭐ 1,743 | 🐛 49 | 🌐 Python | 📅 2020-01-03
@@ -326,7 +326,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python Tensorflow\]](https://github.com/thunlp/TransNet) ⭐ 101 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-03-25
   * TransNet: Translation-Based Network Representation Learning for Social Relation Extraction, IJCAI'17
 * **cnn\_graph**
-  * [\[Python\]](https://github.com/mdeff/cnn_graph) ⭐ 1,366 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2020-06-13
+  * [\[Python\]](https://github.com/mdeff/cnn_graph) ⭐ 1,367 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2020-06-13
   * Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering, NIPS'16
 * **ConvE**
   * [\[source\]](https://github.com/TimDettmers/ConvE) ⭐ 691 | 🐛 24 | 🌐 Python | 📅 2024-03-29
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
