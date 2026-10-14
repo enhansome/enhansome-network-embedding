@@ -627,7 +627,7 @@
                 "open_issues": 2,
                 "owner": "benedekrozemberczki",
                 "repo": "MUSAE",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "aane",
                   "asne",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1373,
+                "open_issues": 1376,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24115,
+                "stars": 24119,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T05:46:02Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38911,
+                "stars": 38913,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3125,
+                "stars": 3126,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7409,
+                "stars": 7410,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3519,7 +3519,7 @@
                 "open_issues": 49,
                 "owner": "tkipf",
                 "repo": "gae",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16845,
+            "stars": 16846,
             "topics": [
               "gnn",
               "paper-list"
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3104,
+            "stars": 3105,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:11:55.169Z",
+    "last_updated": "2026-10-14T17:02:01.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
