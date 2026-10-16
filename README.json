@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1377,
+                "open_issues": 1378,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24122,
+                "stars": 24124,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1236,10 +1236,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38921,
+                "stars": 38926,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3557,
+                "stars": 3556,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3126,
+                "stars": 3125,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T16:50:47.855Z",
+    "last_updated": "2026-10-16T16:31:46.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
