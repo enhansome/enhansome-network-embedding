@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,817 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 521,379 | 🐛 105 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,123 | 🐛 1,380 | 🌐 Python | 📅 2026-10-06
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,127 | 🐛 1,379 | 🌐 Python | 📅 2026-10-06
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,13 +120,13 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,939 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 38,958 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
   * [\[Python\]](http://sami.haija.org/graph/context)
 * **GAT**
-  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,556 | 🐛 33 | 🌐 Python | 📅 2022-04-09
+  * [\[Python TensorFlow\]](https://github.com/PetarV-/GAT) ⭐ 3,557 | 🐛 33 | 🌐 Python | 📅 2022-04-09
   * [\[Python PyTorch\]](https://github.com/Diego999/pyGAT) ⭐ 3,125 | 🐛 47 | 🌐 Python | 📅 2023-07-06
   * Graph Attention Networks, ICLR'18
   * [\[paper\]](https://arxiv.org/pdf/1710.10903.pdf)
@@ -378,7 +378,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/abs/1403.6652) [\[Python\]](https://github.com/phanein/deepwalk) ⭐ 2,758 | 🐛 46 | 🌐 Python | 📅 2023-06-14  [\[C++\]](https://github.com/xgfs/deepwalk-c) ⭐ 99 | 🐛 6 | 🌐 C++ | 📅 2024-05-28
   * [DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14
 * **GEM**
-  * [\[arxiv\]](https://arxiv.org/abs/1705.02801) [\[Python\]](https://github.com/palash1992/GEM) ⭐ 1,286 | 🐛 14 | 🌐 Python | 📅 2023-11-05
+  * [\[arxiv\]](https://arxiv.org/abs/1705.02801) [\[Python\]](https://github.com/palash1992/GEM) ⭐ 1,287 | 🐛 14 | 🌐 Python | 📅 2023-11-05
   * Graph Embedding Techniques, Applications, and Performance: A Survey
 * **DNE-SBP**
   * [\[paper\]](https://ieeexplore.ieee.org/document/8486671) [\[Code\]](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks) ⭐ 14 | 🐛 0 | 🌐 MATLAB | 📅 2020-07-08
@@ -452,7 +452,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) ⭐ 789 | 🐛 2 | 🌐 Python | 📅 2023-03-24, **EMNLP'19**
 
-[SMORe : Modularize Graph Embedding for Recommendation](https://github.com/cnclabs/smore) ⭐ 373 | 🐛 11 | 🌐 C++ | 📅 2022-10-07, **RecSys'19**
+[SMORe : Modularize Graph Embedding for Recommendation](https://github.com/cnclabs/smore) ⭐ 373 | 🐛 10 | 🌐 C++ | 📅 2022-10-07, **RecSys'19**
 
 [13th International Workshop on Mining and Learning with Graphs](http://www.mlgworkshop.org/2017/), **MLG'17**
 
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
