@@ -907,7 +907,7 @@
                 "open_issues": 1379,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24127,
+                "stars": 24128,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38958,
+                "stars": 38983,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4321,7 +4321,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4805,
+            "stars": 4806,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "bigclam",
               "clustering",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16847,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4613,7 +4613,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4805,
+            "stars": 4806,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:41:03.821Z",
+    "last_updated": "2026-10-20T16:49:33.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
