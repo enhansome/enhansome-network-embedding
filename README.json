@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1379,
+                "open_issues": 1381,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24128,
+                "stars": 24129,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2008,
+                "last_commit": "2026-10-21T07:52:25Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38983,
+                "stars": 38998,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3557,
+                "stars": 3558,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3125,
+                "stars": 3124,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7412,
+                "stars": 7413,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3519,7 +3519,7 @@
                 "open_issues": 49,
                 "owner": "tkipf",
                 "repo": "gae",
-                "stars": 1744,
+                "stars": 1743,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T16:49:33.258Z",
+    "last_updated": "2026-10-21T17:04:44.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
