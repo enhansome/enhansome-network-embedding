@@ -444,8 +444,8 @@
                 "id": 164881995,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-06T22:50:36Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-23T13:33:59Z",
+                "open_issues": 31,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
                 "stars": 2242,
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T02:02:42Z",
+                "last_commit": "2026-10-23T00:52:55Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39005,
+                "stars": 39013,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7413,
+                "stars": 7415,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2741,
+                "stars": 2740,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4195,7 +4195,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-11-05T22:04:24Z",
-                "open_issues": 14,
+                "open_issues": 12,
                 "owner": "palash1992",
                 "repo": "GEM",
                 "stars": 1287,
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:03:23.038Z",
+    "last_updated": "2026-10-23T16:57:18.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
