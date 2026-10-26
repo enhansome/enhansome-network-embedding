@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3454,
+                "stars": 3455,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -907,7 +907,7 @@
                 "open_issues": 1381,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24130,
+                "stars": 24129,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:00:25Z",
+                "last_commit": "2026-10-26T00:43:54Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39025,
+                "stars": 39037,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4198,7 +4198,7 @@
                 "open_issues": 12,
                 "owner": "palash1992",
                 "repo": "GEM",
-                "stars": 1287,
+                "stars": 1286,
                 "topics": [
                   "graph-embedding",
                   "graph-embeddings",
@@ -4261,7 +4261,7 @@
             "open_issues": 2,
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 789,
+            "stars": 788,
             "topics": [
               "deep-learning",
               "emnlp2019",
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4458,7 +4458,7 @@
             "open_issues": 2,
             "owner": "thunlp",
             "repo": "KRLPapers",
-            "stars": 1526,
+            "stars": 1527,
             "topics": [
               "knowledge-embedding",
               "paper-list"
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1856,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4538,7 +4538,7 @@
             "open_issues": 0,
             "owner": "MaxwellRebo",
             "repo": "awesome-2vec",
-            "stars": 936,
+            "stars": 937,
             "topics": [
               "awesome",
               "embeddings",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16849,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T16:01:02.835Z",
+    "last_updated": "2026-10-26T18:37:38.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
