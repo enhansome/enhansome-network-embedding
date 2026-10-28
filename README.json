@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3455,
+                "stars": 3454,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1382,
+                "open_issues": 1381,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24127,
+                "stars": 24128,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
-                "open_issues": 2024,
+                "last_commit": "2026-10-28T13:44:13Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39042,
+                "stars": 39047,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3730,
+                "stars": 3729,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3811,7 +3811,7 @@
                 "open_issues": 19,
                 "owner": "kimiyoung",
                 "repo": "planetoid",
-                "stars": 964,
+                "stars": 963,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4170,7 +4170,7 @@
                 "open_issues": 46,
                 "owner": "phanein",
                 "repo": "deepwalk",
-                "stars": 2757,
+                "stars": 2756,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3106,
+            "stars": 3107,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T17:53:53.411Z",
+    "last_updated": "2026-10-28T18:17:59.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
