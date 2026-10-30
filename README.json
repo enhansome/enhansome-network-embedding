@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1908,
+                "stars": 1909,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,7 +904,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1381,
+                "open_issues": 1384,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24127,
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T16:49:00Z",
+                "last_commit": "2026-10-30T17:33:25Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39057,
+                "stars": 39063,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7415,
+                "stars": 7417,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3607,7 +3607,7 @@
                 "open_issues": 20,
                 "owner": "mdeff",
                 "repo": "cnn_graph",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -3669,7 +3669,7 @@
                 "open_issues": 95,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3811,7 +3811,7 @@
                 "open_issues": 19,
                 "owner": "kimiyoung",
                 "repo": "planetoid",
-                "stars": 963,
+                "stars": 964,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16846,
+            "stars": 16847,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:23:38.163Z",
+    "last_updated": "2026-10-30T17:57:29.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
