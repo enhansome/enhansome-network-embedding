@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2242,
+                "stars": 2243,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1384,
+                "open_issues": 1385,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24129,
+                "stars": 24130,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39070,
+                "stars": 39080,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4110,7 +4110,7 @@
                 "open_issues": 20,
                 "owner": "thunlp",
                 "repo": "KB2E",
-                "stars": 1426,
+                "stars": 1427,
                 "topics": [
                   "knowledge-embedding"
                 ]
@@ -4405,7 +4405,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1857,
+            "stars": 1858,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4509,7 +4509,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1857,
+            "stars": 1858,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16847,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:12:27.222Z",
+    "last_updated": "2026-11-01T17:53:01.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
