@@ -774,7 +774,7 @@
                 "open_issues": 4,
                 "owner": "benedekrozemberczki",
                 "repo": "CapsGNN",
-                "stars": 1280,
+                "stars": 1279,
                 "topics": [
                   "capsgnn",
                   "capsule-network",
@@ -903,8 +903,8 @@
                 "id": 106024057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1387,
+                "last_commit": "2026-11-04T00:08:32Z",
+                "open_issues": 1382,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24132,
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T23:22:33Z",
+                "last_commit": "2026-11-04T16:49:43Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39101,
+                "stars": 39112,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3125,
+                "stars": 3123,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3955,
+                "stars": 3954,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3729,
+                "stars": 3728,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7417,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4321,7 +4321,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4806,
+            "stars": 4805,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4613,7 +4613,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4806,
+            "stars": 4805,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:25:50.413Z",
+    "last_updated": "2026-11-04T19:40:28.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2631,
+      "stars": 2630,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
