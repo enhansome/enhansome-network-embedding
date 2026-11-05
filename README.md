@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,866 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,651 | 🐛 103 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -52,7 +52,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * GEMSEC: Graph Embedding with Self Clustering, ASONAM 2019
   * [\[Paper\]](https://arxiv.org/abs/1802.03997)
 * **AmpliGraph**
-  * [\[code\]](https://github.com/Accenture/AmpliGraph) ⭐ 2,243 | 🐛 31 | 🌐 Python | 📅 2026-10-23
+  * [\[code\]](https://github.com/Accenture/AmpliGraph) ⭐ 2,244 | 🐛 31 | 🌐 Python | 📅 2026-10-23
   * Library for learning knowledge graph embeddings with TensorFlow
   * [\[Project\]](http://docs.ampligraph.org)
 * **jodie**
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,132 | 🐛 1,382 | 🌐 Python | 📅 2026-11-04
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,133 | 🐛 1,384 | 🌐 Python | 📅 2026-11-04
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,7 +120,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 39,112 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-04
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 39,118 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-05
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
@@ -347,7 +347,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[paper\]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_mmdw.pdf)  [\[Java\]](https://github.com/thunlp/MMDW) ⭐ 73 | 🐛 1 | 🌐 Java | 📅 2017-05-09
   * Max-Margin DeepWalk: Discriminative Learning of Network Representation, IJCAI'16
 * **planetoid**
-  * [\[arxiv\]](https://arxiv.org/abs/1603.08861) [\[Python\]](https://github.com/kimiyoung/planetoid) ⭐ 964 | 🐛 19 | 🌐 Python | 📅 2020-03-05
+  * [\[arxiv\]](https://arxiv.org/abs/1603.08861) [\[Python\]](https://github.com/kimiyoung/planetoid) ⭐ 963 | 🐛 19 | 🌐 Python | 📅 2020-03-05
   * Revisiting Semi-supervised Learning with Graph Embeddings, ICML'16
 * **graph2vec**
   * [\[Python gensim\]](https://github.com/benedekrozemberczki/graph2vec) ⭐ 934 | 🐛 1 | 🌐 Python | 📅 2022-11-06 [\[Python KarateClub\]](https://github.com/benedekrozemberczki/karateclub) ⭐ 2,291 | 🐛 11 | 🌐 Python | 📅 2024-07-17
@@ -474,7 +474,7 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,859 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
 
-[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 937 | 🐛 0 | 📅 2022-12-08
+[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec) ⭐ 938 | 🐛 0 | 📅 2022-12-08
 
 [Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,849 | 🐛 15 | 📅 2023-12-20
 
@@ -486,8 +486,8 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 **Stanford Network Analysis Project** [website](http://snap.stanford.edu/)
 
-**StellarGraph Machine Learning Library** [website](https://www.stellargraph.io) [GitHub](https://github.com/stellargraph/stellargraph) ⭐ 3,064 | 🐛 327 | 🌐 Python | 📅 2024-04-10
+**StellarGraph Machine Learning Library** [website](https://www.stellargraph.io) [GitHub](https://github.com/stellargraph/stellargraph) ⭐ 3,065 | 🐛 327 | 🌐 Python | 📅 2024-04-10
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
