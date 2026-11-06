@@ -903,11 +903,11 @@
                 "id": 106024057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T00:08:32Z",
-                "open_issues": 1384,
+                "last_commit": "2026-11-06T06:58:35Z",
+                "open_issues": 1382,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24133,
+                "stars": 24137,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -941,7 +941,7 @@
                 "open_issues": 2,
                 "owner": "ibalazevic",
                 "repo": "TuckER",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T17:57:19Z",
+                "last_commit": "2026-11-06T18:41:04Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39118,
+                "stars": 39122,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2537,7 +2537,7 @@
                 "open_issues": 0,
                 "owner": "muhanzhang",
                 "repo": "DGCNN",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1756,
+                "stars": 1755,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16849,
+            "stars": 16847,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:51:13.388Z",
+    "last_updated": "2026-11-06T19:16:26.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
