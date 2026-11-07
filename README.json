@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1382,
+                "open_issues": 1385,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24137,
+                "stars": 24138,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39122,
+                "stars": 39126,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4402,7 +4402,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2019-04-07T22:56:01Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
             "stars": 1859,
@@ -4506,7 +4506,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2019-04-07T22:56:01Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
             "stars": 1859,
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16847,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:16:26.229Z",
+    "last_updated": "2026-11-07T17:42:36.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
