@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -907,7 +907,7 @@
                 "open_issues": 1385,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24138,
+                "stars": 24139,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39126,
+                "stars": 39137,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1755,
+                "stars": 1754,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3728,
+                "stars": 3729,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:42:36.857Z",
+    "last_updated": "2026-11-08T17:52:59.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
@@ -4656,7 +4656,7 @@
       "open_issues": 4,
       "owner": "chihming",
       "repo": "awesome-network-embedding",
-      "stars": 2630,
+      "stars": 2629,
       "topics": [
         "graph-embeddings",
         "knowledge-graph",
