@@ -399,7 +399,7 @@
                 "open_issues": 1,
                 "owner": "benedekrozemberczki",
                 "repo": "GEMSEC",
-                "stars": 258,
+                "stars": 257,
                 "topics": [
                   "clustering",
                   "community-detection",
@@ -907,7 +907,7 @@
                 "open_issues": 1385,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24139,
+                "stars": 24138,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:41:04Z",
+                "last_commit": "2026-11-09T18:10:16Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39137,
+                "stars": 39145,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2509,7 +2509,7 @@
                 "open_issues": 7,
                 "owner": "HazyResearch",
                 "repo": "hyperbolics",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -2902,7 +2902,7 @@
                 "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "diff2vec",
-                "stars": 127,
+                "stars": 126,
                 "topics": [
                   "complex-networks",
                   "deep-learning",
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1754,
+                "stars": 1753,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3954,
+                "stars": 3953,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7418,
+                "stars": 7416,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3753,7 +3753,7 @@
                 "open_issues": 2,
                 "owner": "ttrouill",
                 "repo": "complex",
-                "stars": 333,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3781,7 +3781,7 @@
                 "open_issues": 1,
                 "owner": "thunlp",
                 "repo": "MMDW",
-                "stars": 73,
+                "stars": 72,
                 "topics": [
                   "network-embedding"
                 ]
@@ -4261,7 +4261,7 @@
             "open_issues": 2,
             "owner": "svjan5",
             "repo": "GNNs-for-NLP",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "deep-learning",
               "emnlp2019",
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2454,
+            "stars": 2455,
             "topics": [
               "bigclam",
               "clustering",
@@ -4405,7 +4405,7 @@
             "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1859,
+            "stars": 1858,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4509,7 +4509,7 @@
             "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1859,
+            "stars": 1858,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3107,
+            "stars": 3106,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:52:59.673Z",
+    "last_updated": "2026-11-09T22:14:40.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
