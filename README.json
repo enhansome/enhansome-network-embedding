@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1385,
+                "open_issues": 1392,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24138,
+                "stars": 24139,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1239,7 +1239,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39145,
+                "stars": 39152,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3560,
+                "stars": 3561,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7416,
+                "stars": 7417,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 96,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2741,
+                "stars": 2742,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3921,7 +3921,7 @@
                 "open_issues": 33,
                 "owner": "tangjianpku",
                 "repo": "LINE",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16848,
+            "stars": 16849,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:14:40.285Z",
+    "last_updated": "2026-11-10T19:37:52.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
