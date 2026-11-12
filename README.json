@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1397,
+                "open_issues": 1398,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24142,
+                "stars": 24141,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1236,10 +1236,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2009,
+                "open_issues": 2012,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39156,
+                "stars": 39161,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16849,
+            "stars": 16850,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:31:22.964Z",
+    "last_updated": "2026-11-12T19:49:38.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
