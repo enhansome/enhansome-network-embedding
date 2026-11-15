@@ -1239,7 +1239,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39174,
+                "stars": 39181,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2509,7 +2509,7 @@
                 "open_issues": 7,
                 "owner": "HazyResearch",
                 "repo": "hyperbolics",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3731,
+                "stars": 3732,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4170,7 +4170,7 @@
                 "open_issues": 46,
                 "owner": "phanein",
                 "repo": "deepwalk",
-                "stars": 2758,
+                "stars": 2757,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:55:10.389Z",
+    "last_updated": "2026-11-15T18:45:09.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
