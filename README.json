@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -521,7 +521,7 @@
                 "open_issues": 67,
                 "owner": "facebookresearch",
                 "repo": "PyTorch-BigGraph",
-                "stars": 3454,
+                "stars": 3453,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1403,
+                "open_issues": 1404,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24142,
+                "stars": 24146,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T12:36:20Z",
+                "last_commit": "2026-11-16T16:31:35Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39181,
+                "stars": 39196,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2827,7 +2827,7 @@
                 "open_issues": 26,
                 "owner": "matenure",
                 "repo": "FastGCN",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "fastgcn",
                   "graph-convolutional-networks",
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3953,
+                "stars": 3952,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3753,7 +3753,7 @@
                 "open_issues": 2,
                 "owner": "ttrouill",
                 "repo": "complex",
-                "stars": 331,
+                "stars": 332,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16850,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:45:09.435Z",
+    "last_updated": "2026-11-16T21:55:33.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
