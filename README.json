@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1404,
+                "open_issues": 1406,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24146,
+                "stars": 24147,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:31:35Z",
+                "last_commit": "2026-11-17T17:57:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39196,
+                "stars": 39207,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3560,
+                "stars": 3559,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3123,
+                "stars": 3122,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3952,
+                "stars": 3951,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7417,
+                "stars": 7418,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2453,
+            "stars": 2454,
             "topics": [
               "bigclam",
               "clustering",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:55:33.919Z",
+    "last_updated": "2026-11-17T20:46:02.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
