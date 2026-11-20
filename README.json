@@ -24,7 +24,7 @@
                 "open_issues": 25,
                 "owner": "snap-stanford",
                 "repo": "GraphGym",
-                "stars": 1911,
+                "stars": 1910,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -52,7 +52,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -171,7 +171,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -220,7 +220,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -269,7 +269,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -318,7 +318,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2246,
+                "stars": 2245,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -585,7 +585,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -774,7 +774,7 @@
                 "open_issues": 4,
                 "owner": "benedekrozemberczki",
                 "repo": "CapsGNN",
-                "stars": 1279,
+                "stars": 1277,
                 "topics": [
                   "capsgnn",
                   "capsule-network",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1407,
+                "open_issues": 1409,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24149,
+                "stars": 24148,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1148,7 +1148,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T15:52:19Z",
+                "last_commit": "2026-11-20T12:12:08Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39233,
+                "stars": 39245,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3560,
+                "stars": 3559,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1341,7 +1341,7 @@
                 "open_issues": 47,
                 "owner": "diegoantognini",
                 "repo": "pyGAT",
-                "stars": 3123,
+                "stars": 3122,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -1376,7 +1376,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1621,7 +1621,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1754,7 +1754,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -1872,7 +1872,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -2099,7 +2099,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -2224,7 +2224,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -2392,7 +2392,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -2827,7 +2827,7 @@
                 "open_issues": 26,
                 "owner": "matenure",
                 "repo": "FastGCN",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "fastgcn",
                   "graph-convolutional-networks",
@@ -2860,7 +2860,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -2951,7 +2951,7 @@
                 "open_issues": 31,
                 "owner": "facebookresearch",
                 "repo": "poincare-embeddings",
-                "stars": 1753,
+                "stars": 1752,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3105,7 +3105,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3951,
+                "stars": 3950,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3220,7 +3220,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -3311,7 +3311,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7418,
+                "stars": 7417,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3977,7 +3977,7 @@
                 "open_issues": 11,
                 "owner": "benedekrozemberczki",
                 "repo": "karateclub",
-                "stars": 2292,
+                "stars": 2291,
                 "topics": [
                   "2vec",
                   "community-detection",
@@ -4321,7 +4321,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4805,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2453,
+            "stars": 2452,
             "topics": [
               "bigclam",
               "clustering",
@@ -4434,7 +4434,7 @@
             "open_issues": 0,
             "owner": "thunlp",
             "repo": "NRLPapers",
-            "stars": 2512,
+            "stars": 2510,
             "topics": [
               "network-embedding",
               "paper-list"
@@ -4458,7 +4458,7 @@
             "open_issues": 2,
             "owner": "thunlp",
             "repo": "KRLPapers",
-            "stars": 1527,
+            "stars": 1526,
             "topics": [
               "knowledge-embedding",
               "paper-list"
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16850,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4587,7 +4587,7 @@
             "open_issues": 5,
             "owner": "DeepGraphLearning",
             "repo": "LiteratureDL4Graph",
-            "stars": 3107,
+            "stars": 3106,
             "topics": [
               "arxiv",
               "deep-learning",
@@ -4613,7 +4613,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4805,
+            "stars": 4804,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T20:26:51.227Z",
+    "last_updated": "2026-11-20T19:58:48.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
