@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1410,
+                "open_issues": 1411,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24149,
+                "stars": 24150,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1236,10 +1236,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T15:37:23Z",
-                "open_issues": 2013,
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39250,
+                "stars": 39259,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4321,7 +4321,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4804,
+            "stars": 4805,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4613,7 +4613,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-graph-classification",
-            "stars": 4804,
+            "stars": 4805,
             "topics": [
               "attention-mechanism",
               "classification-algorithm",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:04:54.895Z",
+    "last_updated": "2026-11-22T19:27:20.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
