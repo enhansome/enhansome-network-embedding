@@ -1,6 +1,6 @@
 # awesome-network-embedding with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,656 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,286 | 🐛 103 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Gitter chat for developers at https://gitter.im/dmlc/xgboost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-network-embedding/Lobby)
 
@@ -56,7 +56,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Library for learning knowledge graph embeddings with TensorFlow
   * [\[Project\]](http://docs.ampligraph.org)
 * **jodie**
-  * [\[Code\]](https://github.com/srijankr/jodie/) ⭐ 425 | 🐛 18 | 🌐 Python | 📅 2024-07-25
+  * [\[Code\]](https://github.com/srijankr/jodie/) ⭐ 426 | 🐛 18 | 🌐 Python | 📅 2024-07-25
   * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks, KDD'19
   * [\[Project\]](http://snap.stanford.edu/jodie/)
 * **PyTorch-BigGraph**
@@ -93,7 +93,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[arxiv\]](https://arxiv.org/pdf/1802.06257.pdf)
   * [\[paper\]](https://dl.acm.org/citation.cfm?id=3271788)
 * **PyTorch Geometric**
-  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,149 | 🐛 1,412 | 🌐 Python | 📅 2026-11-06
+  * [\[Python PyTorch\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,151 | 🐛 1,411 | 🌐 Python | 📅 2026-11-06
   * Fast Graph Representation Learning With PyTorch Geometric
   * [\[paper\]](https://arxiv.org/pdf/1903.02428.pdf)
 * **TuckER**
@@ -120,7 +120,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * Learning Role-based Graph Embeddings, IJCAI'18
   * [\[paper\]](https://arxiv.org/pdf/1802.02896.pdf)
 * **AttentionWalk**
-  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 39,268 | 🐛 2,014 | 🌐 Jupyter Notebook | 📅 2026-11-23
+  * [\[Python TensorFlow\]](https://github.com/google-research/google-research/tree/master/graph_embedding/watch_your_step/) ⭐ 39,281 | 🐛 2,015 | 🌐 Jupyter Notebook | 📅 2026-11-24
   * [\[Python PyTorch\]](https://github.com/benedekrozemberczki/AttentionWalk) ⭐ 326 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Watch Your Step: Learning Node Embeddings via Graph Attention, NIPS'18
   * [\[paper\]](https://arxiv.org/pdf/1710.09599.pdf)
@@ -302,7 +302,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[Python TensorFlow\]](https://github.com/benedekrozemberczki/M-NMF) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2022-11-06
   * Community Preserving Network Embedding, AAAI'17
 * **GraphSAGE**
-  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,733 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,051 | 🐛 20 | 🌐 Python | 📅 2020-05-11
+  * [\[arxiv\]](https://arxiv.org/abs/1706.02216) [\[TF\]](https://github.com/williamleif/GraphSAGE) ⭐ 3,734 | 🐛 122 | 🌐 Python | 📅 2024-08-04 [\[PyTorch\]](https://github.com/williamleif/graphsage-simple/) ⭐ 1,051 | 🐛 20 | 🌐 Python | 📅 2020-05-11
   * Inductive Representation Learning on Large Graphs, NIPS'17
 * **ICE**
   * [\[demo\]](https://cnclabs.github.io/ICE/) [\[code\]](https://github.com/cnclabs/ICE) ⭐ 88 | 🐛 6 | 🌐 C++ | 📅 2017-11-25
@@ -332,7 +332,7 @@ CALL FOR HELP: I'm planning to re-organize the papers with clear classification 
   * [\[source\]](https://github.com/TimDettmers/ConvE) ⭐ 689 | 🐛 25 | 🌐 Python | 📅 2024-03-29
   * [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/pdf/1707.01476v2.pdf), arxiv
 * **node2vec**
-  * [\[arxiv\]](https://arxiv.org/abs/1607.00653) [\[Python\]](https://github.com/aditya-grover/node2vec) ⭐ 2,742 | 🐛 96 | 🌐 Scala | 📅 2022-07-21 [\[Python-2\]](https://github.com/apple2373/node2vec) ⭐ 69 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-07-06 [\[Python-3\]](https://github.com/eliorc/node2vec) ⭐ 1,304 | 🐛 0 | 🌐 Python | 📅 2025-10-06 [\[C++\]](https://github.com/xgfs/node2vec-c) ⭐ 53 | 🐛 4 | 🌐 C++ | 📅 2020-05-29
+  * [\[arxiv\]](https://arxiv.org/abs/1607.00653) [\[Python\]](https://github.com/aditya-grover/node2vec) ⭐ 2,741 | 🐛 96 | 🌐 Scala | 📅 2022-07-21 [\[Python-2\]](https://github.com/apple2373/node2vec) ⭐ 69 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-07-06 [\[Python-3\]](https://github.com/eliorc/node2vec) ⭐ 1,304 | 🐛 0 | 🌐 Python | 📅 2025-10-06 [\[C++\]](https://github.com/xgfs/node2vec-c) ⭐ 53 | 🐛 4 | 🌐 C++ | 📅 2020-05-29
   * [node2vec: Scalable Feature Learning for Networks](http://dl.acm.org/citation.cfm?id=2939672.2939754), KDD'16
 * **DNGR**
   * [\[Matlab\]](https://github.com/ShelsonCao/DNGR) ⭐ 42 | 🐛 1 | 🌐 Matlab | 📅 2017-02-21 [\[Python Keras\]](https://github.com/MdAsifKhan/DNGR-Keras) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2017-01-20
@@ -490,4 +490,4 @@ Learning](https://arxiv.org/abs/1804.06111)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

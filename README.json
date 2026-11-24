@@ -484,7 +484,7 @@
                 "open_issues": 18,
                 "owner": "claws-lab",
                 "repo": "jodie",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "dynamic-networks",
                   "embedding-trajectories",
@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1412,
+                "open_issues": 1411,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24149,
+                "stars": 24151,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:01:17Z",
-                "open_issues": 2014,
+                "last_commit": "2026-11-24T22:16:08Z",
+                "open_issues": 2015,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39268,
+                "stars": 39281,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3733,
+                "stars": 3734,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -3669,7 +3669,7 @@
                 "open_issues": 96,
                 "owner": "aditya-grover",
                 "repo": "node2vec",
-                "stars": 2742,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T23:46:08.488Z",
+    "last_updated": "2026-11-24T22:17:51.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
