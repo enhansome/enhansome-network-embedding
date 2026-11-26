@@ -904,10 +904,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1413,
+                "open_issues": 1414,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24155,
+                "stars": 24157,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T20:54:44Z",
-                "open_issues": 2019,
+                "last_commit": "2026-11-26T08:37:24Z",
+                "open_issues": 2020,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39410,
+                "stars": 39519,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3402,7 +3402,7 @@
                 "open_issues": 122,
                 "owner": "williamleif",
                 "repo": "GraphSAGE",
-                "stars": 3734,
+                "stars": 3735,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4363,7 +4363,7 @@
             "open_issues": 0,
             "owner": "benedekrozemberczki",
             "repo": "awesome-community-detection",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "bigclam",
               "clustering",
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:34:44.489Z",
+    "last_updated": "2026-11-26T21:23:42.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
