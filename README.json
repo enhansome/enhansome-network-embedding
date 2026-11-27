@@ -448,7 +448,7 @@
                 "open_issues": 31,
                 "owner": "Accenture",
                 "repo": "AmpliGraph",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": [
                   "graph-embeddings",
                   "graph-representation-learning",
@@ -1235,11 +1235,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T08:37:24Z",
-                "open_issues": 2020,
+                "last_commit": "2026-11-27T16:02:30Z",
+                "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39519,
+                "stars": 39563,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1313,7 +1313,7 @@
                 "open_issues": 33,
                 "owner": "PetarV-",
                 "repo": "GAT",
-                "stars": 3559,
+                "stars": 3558,
                 "topics": [
                   "attention-mechanism",
                   "graph-attention-networks",
@@ -3491,7 +3491,7 @@
                 "open_issues": 124,
                 "owner": "tkipf",
                 "repo": "gcn",
-                "stars": 7417,
+                "stars": 7419,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:56.693Z"
@@ -4405,7 +4405,7 @@
             "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1858,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4509,7 +4509,7 @@
             "open_issues": 5,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1858,
+            "stars": 1857,
             "topics": [
               "awesome",
               "embedding-models",
@@ -4563,7 +4563,7 @@
             "open_issues": 15,
             "owner": "thunlp",
             "repo": "GNNPapers",
-            "stars": 16849,
+            "stars": 16848,
             "topics": [
               "gnn",
               "paper-list"
@@ -4644,7 +4644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:23:42.197Z",
+    "last_updated": "2026-11-27T21:03:43.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of network embedding techniques.",
